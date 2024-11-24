@@ -5,41 +5,41 @@ mode: Rule
 log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
-  - {name: mksshare：2.92 GB, server: free.2apzhfa.xyz, port: 31141, type: ss, cipher: chacha20-ietf-poly1305, password: e6b358cb-bfb3-4a48-b2fb-3886c24eae43}
-  - {name: 🇭🇰 香港 01_mksshare, server: free.2apzhfa.xyz, port: 31141, type: ss, cipher: chacha20-ietf-poly1305, password: e6b358cb-bfb3-4a48-b2fb-3886c24eae43}
-  - {name: 🇭🇰 香港 02_mksshare, server: free.2apzhfa.xyz, port: 31143, type: ss, cipher: chacha20-ietf-poly1305, password: e6b358cb-bfb3-4a48-b2fb-3886c24eae43}
-  - {name: 🇭🇰 香港家宽 03_mksshare, server: free.2apzhfa.xyz, port: 31145, type: ss, cipher: chacha20-ietf-poly1305, password: e6b358cb-bfb3-4a48-b2fb-3886c24eae43}
-  - {name: 🇨🇳 台湾 01_mksshare, server: free.2apzhfa.xyz, port: 31241, type: ss, cipher: chacha20-ietf-poly1305, password: e6b358cb-bfb3-4a48-b2fb-3886c24eae43}
-  - {name: 🇨🇳 台湾 02_mksshare, server: free.2apzhfa.xyz, port: 31243, type: ss, cipher: chacha20-ietf-poly1305, password: e6b358cb-bfb3-4a48-b2fb-3886c24eae43}
-  - {name: 🇨🇳 台湾 03_mksshare, server: free.2apzhfa.xyz, port: 31245, type: ss, cipher: chacha20-ietf-poly1305, password: e6b358cb-bfb3-4a48-b2fb-3886c24eae43}
-  - {name: 🇯🇵 日本 01_mksshare, server: free.2apzhfa.xyz, port: 31111, type: ss, cipher: chacha20-ietf-poly1305, password: e6b358cb-bfb3-4a48-b2fb-3886c24eae43}
-  - {name: 🇯🇵 日本 02_mksshare, server: free.2apzhfa.xyz, port: 31113, type: ss, cipher: chacha20-ietf-poly1305, password: e6b358cb-bfb3-4a48-b2fb-3886c24eae43}
-  - {name: 🇯🇵 日本 03_mksshare, server: free.2apzhfa.xyz, port: 31115, type: ss, cipher: chacha20-ietf-poly1305, password: e6b358cb-bfb3-4a48-b2fb-3886c24eae43}
-  - {name: 🇸🇬 新加坡 01_mksshare, server: free.2apzhfa.xyz, port: 31171, type: ss, cipher: chacha20-ietf-poly1305, password: e6b358cb-bfb3-4a48-b2fb-3886c24eae43}
-  - {name: 🇸🇬 新加坡 02_mksshare, server: free.2apzhfa.xyz, port: 31173, type: ss, cipher: chacha20-ietf-poly1305, password: e6b358cb-bfb3-4a48-b2fb-3886c24eae43}
-  - {name: 🇸🇬 新加坡 03_mksshare, server: free.2apzhfa.xyz, port: 31175, type: ss, cipher: chacha20-ietf-poly1305, password: e6b358cb-bfb3-4a48-b2fb-3886c24eae43}
-  - {name: 🇰🇷 韩国 01_mksshare, server: free.2apzhfa.xyz, port: 31311, type: ss, cipher: chacha20-ietf-poly1305, password: e6b358cb-bfb3-4a48-b2fb-3886c24eae43}
-  - {name: 🇰🇷 韩国 02_mksshare, server: free.2apzhfa.xyz, port: 31313, type: ss, cipher: chacha20-ietf-poly1305, password: e6b358cb-bfb3-4a48-b2fb-3886c24eae43}
-  - {name: 🇰🇷 韩国 03_mksshare, server: free.2apzhfa.xyz, port: 31315, type: ss, cipher: chacha20-ietf-poly1305, password: e6b358cb-bfb3-4a48-b2fb-3886c24eae43}
-  - {name: 🇵🇭 菲律宾 01_mksshare, server: free.2apzhfa.xyz, port: 31341, type: ss, cipher: chacha20-ietf-poly1305, password: e6b358cb-bfb3-4a48-b2fb-3886c24eae43}
-  - {name: 🇺🇲 美国 01_mksshare, server: free.2apzhfa.xyz, port: 31211, type: ss, cipher: chacha20-ietf-poly1305, password: e6b358cb-bfb3-4a48-b2fb-3886c24eae43}
-  - {name: 🇺🇲 美国家宽 02_mksshare, server: free.2apzhfa.xyz, port: 31213, type: ss, cipher: chacha20-ietf-poly1305, password: e6b358cb-bfb3-4a48-b2fb-3886c24eae43}
-  - {name: 🇺🇲 美国 03_mksshare, server: free.2apzhfa.xyz, port: 31215, type: ss, cipher: chacha20-ietf-poly1305, password: e6b358cb-bfb3-4a48-b2fb-3886c24eae43}
-  - {name: 🇺🇲 美国 04_mksshare, server: free.2apzhfa.xyz, port: 31217, type: ss, cipher: chacha20-ietf-poly1305, password: e6b358cb-bfb3-4a48-b2fb-3886c24eae43}
-  - {name: 🇺🇲 美国 05_mksshare, server: free.2apzhfa.xyz, port: 31219, type: ss, cipher: chacha20-ietf-poly1305, password: e6b358cb-bfb3-4a48-b2fb-3886c24eae43}
-  - {name: 🇬🇧 英国家宽 01_mksshare, server: free.2apzhfa.xyz, port: 31271, type: ss, cipher: chacha20-ietf-poly1305, password: e6b358cb-bfb3-4a48-b2fb-3886c24eae43}
-  - {name: 西班牙01_mksshare, server: free.2apzhfa.xyz, port: 31741, type: ss, cipher: chacha20-ietf-poly1305, password: e6b358cb-bfb3-4a48-b2fb-3886c24eae43}
-  - {name: 🇲🇾 马来西亚01_mksshare, server: free.2apzhfa.xyz, port: 31721, type: ss, cipher: chacha20-ietf-poly1305, password: e6b358cb-bfb3-4a48-b2fb-3886c24eae43}
-  - {name: 🇹🇭 泰国01 _mksshare, server: free.2apzhfa.xyz, port: 31741, type: ss, cipher: chacha20-ietf-poly1305, password: e6b358cb-bfb3-4a48-b2fb-3886c24eae43}
-  - {name: 🇮🇳 印度 01_mksshare, server: free.2apzhfa.xyz, port: 31371, type: ss, cipher: chacha20-ietf-poly1305, password: e6b358cb-bfb3-4a48-b2fb-3886c24eae43}
-  - {name: 🇦🇺 澳大利亚 01_mksshare, server: free.2apzhfa.xyz, port: 31411, type: ss, cipher: chacha20-ietf-poly1305, password: e6b358cb-bfb3-4a48-b2fb-3886c24eae43}
-  - {name: 🇨🇦 加拿大 01_mksshare, server: free.2apzhfa.xyz, port: 31441, type: ss, cipher: chacha20-ietf-poly1305, password: e6b358cb-bfb3-4a48-b2fb-3886c24eae43}
-  - {name: 🇩🇪 德国 01_mksshare, server: free.2apzhfa.xyz, port: 31471, type: ss, cipher: chacha20-ietf-poly1305, password: e6b358cb-bfb3-4a48-b2fb-3886c24eae43}
-  - {name: 🇷🇺 俄罗斯 01_mksshare, server: free.2apzhfa.xyz, port: 31511, type: ss, cipher: chacha20-ietf-poly1305, password: e6b358cb-bfb3-4a48-b2fb-3886c24eae43}
-  - {name: 🇹🇷 土耳其 01_mksshare, server: free.2apzhfa.xyz, port: 31571, type: ss, cipher: chacha20-ietf-poly1305, password: e6b358cb-bfb3-4a48-b2fb-3886c24eae43}
-  - {name: 乌克兰 01_mksshare, server: free.2apzhfa.xyz, port: 31611, type: ss, cipher: chacha20-ietf-poly1305, password: e6b358cb-bfb3-4a48-b2fb-3886c24eae43}
-  - {name: 🇻🇳 越南 01_mksshare, server: free.2apzhfa.xyz, port: 31641, type: ss, cipher: chacha20-ietf-poly1305, password: e6b358cb-bfb3-4a48-b2fb-3886c24eae43}
-  - {name: 🇧🇷 巴西 01_mksshare, server: free.2apzhfa.xyz, port: 31671, type: ss, cipher: chacha20-ietf-poly1305, password: e6b358cb-bfb3-4a48-b2fb-3886c24eae43}
+  - {name: mksshare：2.31 GB, server: free.2apzhfa.xyz, port: 31141, type: ss, cipher: chacha20-ietf-poly1305, password: 856be33f-87f4-4c9d-9cb0-516f8f5c9666}
+  - {name: 🇭🇰 香港 01_mksshare, server: free.2apzhfa.xyz, port: 31141, type: ss, cipher: chacha20-ietf-poly1305, password: 856be33f-87f4-4c9d-9cb0-516f8f5c9666}
+  - {name: 🇭🇰 香港 02_mksshare, server: free.2apzhfa.xyz, port: 31143, type: ss, cipher: chacha20-ietf-poly1305, password: 856be33f-87f4-4c9d-9cb0-516f8f5c9666}
+  - {name: 🇭🇰 香港家宽 03_mksshare, server: free.2apzhfa.xyz, port: 31145, type: ss, cipher: chacha20-ietf-poly1305, password: 856be33f-87f4-4c9d-9cb0-516f8f5c9666}
+  - {name: 🇨🇳 台湾 01_mksshare, server: free.2apzhfa.xyz, port: 31241, type: ss, cipher: chacha20-ietf-poly1305, password: 856be33f-87f4-4c9d-9cb0-516f8f5c9666}
+  - {name: 🇨🇳 台湾 02_mksshare, server: free.2apzhfa.xyz, port: 31243, type: ss, cipher: chacha20-ietf-poly1305, password: 856be33f-87f4-4c9d-9cb0-516f8f5c9666}
+  - {name: 🇨🇳 台湾 03_mksshare, server: free.2apzhfa.xyz, port: 31245, type: ss, cipher: chacha20-ietf-poly1305, password: 856be33f-87f4-4c9d-9cb0-516f8f5c9666}
+  - {name: 🇯🇵 日本 01_mksshare, server: free.2apzhfa.xyz, port: 31111, type: ss, cipher: chacha20-ietf-poly1305, password: 856be33f-87f4-4c9d-9cb0-516f8f5c9666}
+  - {name: 🇯🇵 日本 02_mksshare, server: free.2apzhfa.xyz, port: 31113, type: ss, cipher: chacha20-ietf-poly1305, password: 856be33f-87f4-4c9d-9cb0-516f8f5c9666}
+  - {name: 🇯🇵 日本 03_mksshare, server: free.2apzhfa.xyz, port: 31115, type: ss, cipher: chacha20-ietf-poly1305, password: 856be33f-87f4-4c9d-9cb0-516f8f5c9666}
+  - {name: 🇸🇬 新加坡 01_mksshare, server: free.2apzhfa.xyz, port: 31171, type: ss, cipher: chacha20-ietf-poly1305, password: 856be33f-87f4-4c9d-9cb0-516f8f5c9666}
+  - {name: 🇸🇬 新加坡 02_mksshare, server: free.2apzhfa.xyz, port: 31173, type: ss, cipher: chacha20-ietf-poly1305, password: 856be33f-87f4-4c9d-9cb0-516f8f5c9666}
+  - {name: 🇸🇬 新加坡 03_mksshare, server: free.2apzhfa.xyz, port: 31175, type: ss, cipher: chacha20-ietf-poly1305, password: 856be33f-87f4-4c9d-9cb0-516f8f5c9666}
+  - {name: 🇰🇷 韩国 01_mksshare, server: free.2apzhfa.xyz, port: 31311, type: ss, cipher: chacha20-ietf-poly1305, password: 856be33f-87f4-4c9d-9cb0-516f8f5c9666}
+  - {name: 🇰🇷 韩国 02_mksshare, server: free.2apzhfa.xyz, port: 31313, type: ss, cipher: chacha20-ietf-poly1305, password: 856be33f-87f4-4c9d-9cb0-516f8f5c9666}
+  - {name: 🇰🇷 韩国 03_mksshare, server: free.2apzhfa.xyz, port: 31315, type: ss, cipher: chacha20-ietf-poly1305, password: 856be33f-87f4-4c9d-9cb0-516f8f5c9666}
+  - {name: 🇵🇭 菲律宾 01_mksshare, server: free.2apzhfa.xyz, port: 31341, type: ss, cipher: chacha20-ietf-poly1305, password: 856be33f-87f4-4c9d-9cb0-516f8f5c9666}
+  - {name: 🇺🇲 美国 01_mksshare, server: free.2apzhfa.xyz, port: 31211, type: ss, cipher: chacha20-ietf-poly1305, password: 856be33f-87f4-4c9d-9cb0-516f8f5c9666}
+  - {name: 🇺🇲 美国家宽 02_mksshare, server: free.2apzhfa.xyz, port: 31213, type: ss, cipher: chacha20-ietf-poly1305, password: 856be33f-87f4-4c9d-9cb0-516f8f5c9666}
+  - {name: 🇺🇲 美国 03_mksshare, server: free.2apzhfa.xyz, port: 31215, type: ss, cipher: chacha20-ietf-poly1305, password: 856be33f-87f4-4c9d-9cb0-516f8f5c9666}
+  - {name: 🇺🇲 美国 04_mksshare, server: free.2apzhfa.xyz, port: 31217, type: ss, cipher: chacha20-ietf-poly1305, password: 856be33f-87f4-4c9d-9cb0-516f8f5c9666}
+  - {name: 🇺🇲 美国 05_mksshare, server: free.2apzhfa.xyz, port: 31219, type: ss, cipher: chacha20-ietf-poly1305, password: 856be33f-87f4-4c9d-9cb0-516f8f5c9666}
+  - {name: 🇬🇧 英国家宽 01_mksshare, server: free.2apzhfa.xyz, port: 31271, type: ss, cipher: chacha20-ietf-poly1305, password: 856be33f-87f4-4c9d-9cb0-516f8f5c9666}
+  - {name: 西班牙01_mksshare, server: free.2apzhfa.xyz, port: 31741, type: ss, cipher: chacha20-ietf-poly1305, password: 856be33f-87f4-4c9d-9cb0-516f8f5c9666}
+  - {name: 🇲🇾 马来西亚01_mksshare, server: free.2apzhfa.xyz, port: 31721, type: ss, cipher: chacha20-ietf-poly1305, password: 856be33f-87f4-4c9d-9cb0-516f8f5c9666}
+  - {name: 🇹🇭 泰国01 _mksshare, server: free.2apzhfa.xyz, port: 31741, type: ss, cipher: chacha20-ietf-poly1305, password: 856be33f-87f4-4c9d-9cb0-516f8f5c9666}
+  - {name: 🇮🇳 印度 01_mksshare, server: free.2apzhfa.xyz, port: 31371, type: ss, cipher: chacha20-ietf-poly1305, password: 856be33f-87f4-4c9d-9cb0-516f8f5c9666}
+  - {name: 🇦🇺 澳大利亚 01_mksshare, server: free.2apzhfa.xyz, port: 31411, type: ss, cipher: chacha20-ietf-poly1305, password: 856be33f-87f4-4c9d-9cb0-516f8f5c9666}
+  - {name: 🇨🇦 加拿大 01_mksshare, server: free.2apzhfa.xyz, port: 31441, type: ss, cipher: chacha20-ietf-poly1305, password: 856be33f-87f4-4c9d-9cb0-516f8f5c9666}
+  - {name: 🇩🇪 德国 01_mksshare, server: free.2apzhfa.xyz, port: 31471, type: ss, cipher: chacha20-ietf-poly1305, password: 856be33f-87f4-4c9d-9cb0-516f8f5c9666}
+  - {name: 🇷🇺 俄罗斯 01_mksshare, server: free.2apzhfa.xyz, port: 31511, type: ss, cipher: chacha20-ietf-poly1305, password: 856be33f-87f4-4c9d-9cb0-516f8f5c9666}
+  - {name: 🇹🇷 土耳其 01_mksshare, server: free.2apzhfa.xyz, port: 31571, type: ss, cipher: chacha20-ietf-poly1305, password: 856be33f-87f4-4c9d-9cb0-516f8f5c9666}
+  - {name: 乌克兰 01_mksshare, server: free.2apzhfa.xyz, port: 31611, type: ss, cipher: chacha20-ietf-poly1305, password: 856be33f-87f4-4c9d-9cb0-516f8f5c9666}
+  - {name: 🇻🇳 越南 01_mksshare, server: free.2apzhfa.xyz, port: 31641, type: ss, cipher: chacha20-ietf-poly1305, password: 856be33f-87f4-4c9d-9cb0-516f8f5c9666}
+  - {name: 🇧🇷 巴西 01_mksshare, server: free.2apzhfa.xyz, port: 31671, type: ss, cipher: chacha20-ietf-poly1305, password: 856be33f-87f4-4c9d-9cb0-516f8f5c9666}
   - {name: abshare3：5 GB, server: free.2weradf.xyz, port: 36141, type: ss, cipher: chacha20-ietf-poly1305, password: a6a39fa3-73e1-4147-ac40-f64f44734968}
   - {name: 🇭🇰 香港 01_abshare3, server: free.2weradf.xyz, port: 36141, type: ss, cipher: chacha20-ietf-poly1305, password: a6a39fa3-73e1-4147-ac40-f64f44734968}
   - {name: 🇭🇰 香港 02_abshare3, server: free.2weradf.xyz, port: 36143, type: ss, cipher: chacha20-ietf-poly1305, password: a6a39fa3-73e1-4147-ac40-f64f44734968}
@@ -231,93 +231,93 @@ proxies:
   - {name: 🇰🇷 韩国特殊|@ripaojiedian, server: 13.231.108.239, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
   - {name: 🇸🇬 狮城特殊|@ripaojiedian, server: 52.195.4.43, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
   - {name: 🇬🇧 英国|@ripaojiedian, server: 51.24.3.210, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk}
-  - {name: 🇺🇲 加入我的频道t.me/CMLiussss解锁更多优选节点, server: Join.my.Telegram.channel.CMLiussss.to.unlock.more.premium.nodes.cf.090227.xyz, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
-  - {name: CFnat, server: 127.0.0.1, port: 1234, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
-  - {name: 🇺🇲 US, server: 192.200.160.33, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
-  - {name: 🇺🇲 US 2, server: 216.24.57.171, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
-  - {name: 🇺🇲 US 3, server: 192.200.160.19, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
-  - {name: 🇩🇪 DE, server: 185.103.253.35, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
-  - {name: DK, server: 95.164.10.50, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
-  - {name: 🇺🇲 US 4, server: 216.24.57.167, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
-  - {name: 🇺🇲 US 5, server: 216.24.57.57, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
-  - {name: 🇩🇪 DE 2, server: 18.192.113.68, port: 8443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
-  - {name: 🇺🇲 US 6, server: 216.221.213.149, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
-  - {name: 🇺🇲 US 7, server: 216.24.57.92, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
-  - {name: 🇩🇪 DE 3, server: 18.196.70.197, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
-  - {name: KZ, server: 194.76.18.223, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
-  - {name: 🇧🇷 BR, server: 185.133.35.115, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
-  - {name: KZ 2, server: 194.76.18.130, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
-  - {name: GB, server: 217.163.76.63, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
-  - {name: 🇧🇷 BR 2, server: 185.133.35.96, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
-  - {name: 🇯🇵 JP, server: 193.116.44.175, port: 11434, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
-  - {name: 🇯🇵 JP 2, server: 59.190.202.155, port: 16064, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
-  - {name: 🇸🇬 SG, server: 118.194.234.15, port: 14500, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
-  - {name: 🇭🇰 HK, server: 43.154.164.106, port: 8250, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
-  - {name: 🇰🇷 KR, server: 182.213.245.185, port: 30012, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
-  - {name: 🇰🇷 KR 2, server: 1.243.104.99, port: 30012, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
-  - {name: 🇰🇷 KR 3, server: 61.79.32.239, port: 19017, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
-  - {name: 🇰🇷 KR 4, server: 121.152.86.72, port: 30012, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
-  - {name: 🇺🇲 US 8, server: 204.110.220.252, port: 80, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
-  - {name: 🇺🇲 US 9, server: 172.245.223.124, port: 8100, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
-  - {name: 🇺🇲 US 10, server: 104.168.43.27, port: 17635, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
-  - {name: 🇺🇲 US 11, server: 65.75.192.35, port: 22857, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
-  - {name: 🇺🇲 US 12, server: 129.146.243.241, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
-  - {name: 🇺🇲 US 13, server: 129.146.254.39, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
-  - {name: 🇺🇲 US 14, server: 129.146.46.164, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
-  - {name: 🇸🇪 SE, server: 129.151.198.3, port: 8443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
-  - {name: 🇸🇪 SE 2, server: 129.151.204.91, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
-  - {name: 🇫🇷 FR, server: 129.151.225.228, port: 8443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
-  - {name: IN, server: 129.154.254.254, port: 8443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
-  - {name: IN 2, server: 129.154.46.115, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
-  - {name: 🇺🇲 US 15, server: 129.158.198.241, port: 8443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
-  - {name: 🇺🇲 US 16, server: 129.159.34.122, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
-  - {name: 🇩🇪 DE 4, server: 130.61.129.93, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
-  - {name: 🇩🇪 DE 5, server: 130.61.170.78, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
-  - {name: 🇯🇵 JP 3, server: 131.186.60.210, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
-  - {name: 🇦🇺 AU, server: 140.238.201.118, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
-  - {name: 🇰🇷 KR 5, server: 140.238.23.148, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
-  - {name: 🇳🇱 NL, server: 141.144.193.219, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
-  - {name: 🇩🇪 DE 6, server: 141.147.61.116, port: 8443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
-  - {name: 🇳🇱 NL 2, server: 141.148.229.106, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
-  - {name: 🇫🇷 FR 2, server: 144.24.200.164, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
-  - {name: 🇰🇷 KR 6, server: 146.56.41.215, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
-  - {name: 🇰🇷 KR 7, server: 146.56.43.53, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
-  - {name: IN 3, server: 150.230.238.226, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
-  - {name: 🇺🇲 US 17, server: 152.70.117.174, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
-  - {name: 🇳🇱 NL 3, server: 152.70.49.115, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
-  - {name: 🇯🇵 JP 4, server: 152.70.97.78, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
-  - {name: 🇺🇲 US 18, server: 154.17.21.134, port: 18446, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
-  - {name: 🇺🇲 US 19, server: 158.101.24.17, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
-  - {name: 🇸🇬 SG 2, server: 168.138.162.187, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
-  - {name: 🇯🇵 JP 5, server: 168.138.46.67, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
-  - {name: 🇺🇲 US 20, server: 192.18.128.200, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
-  - {name: CA, server: 192.18.159.129, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
-  - {name: 🇺🇲 US 21, server: 192.9.157.76, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
-  - {name: 🇦🇺 AU 2, server: 192.9.180.162, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
-  - {name: 🇳🇱 NL 4, server: 193.123.62.153, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
-  - {name: 🇨🇳 TW, server: 210.61.97.241, port: 81, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
-  - {name: 🇭🇰 HK 2, server: 219.76.13.164, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
-  - {name: 🇭🇰 HK 3, server: 47.57.14.118, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
-  - {name: 🇺🇲 US 22, server: 47.90.141.204, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
-  - {name: 🇯🇵 JP 6, server: 64.110.104.30, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
-  - {name: CT, server: 162.159.153.76, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
-  - {name: CT 2, server: 162.159.152.232, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
-  - {name: CT 3, server: 162.159.153.43, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
-  - {name: CT 4, server: 162.159.153.188, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
-  - {name: CT 5, server: 162.159.153.135, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
-  - {name: CT 6, server: 162.159.153.232, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
-  - {name: CMCC, server: 104.19.51.231, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
-  - {name: CMCC 2, server: 104.19.50.68, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
-  - {name: CMCC 3, server: 104.19.37.65, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
-  - {name: CMCC 4, server: 104.19.37.125, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
-  - {name: CMCC 5, server: 104.19.49.117, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
-  - {name: CMCC 6, server: 104.19.34.54, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
-  - {name: CMCC-IPV6, server: "[2606:4700:3036:0:a36a:4af2:65e7:a0d6]", port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
-  - {name: CMCC-IPV6 2, server: "[2606:4700:3036:0:a36a:3160:b566:8741]", port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
-  - {name: CMCC-IPV6 3, server: "[2606:4700:3036:6ed4:260:e3e9:a48c:8437]", port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
-  - {name: CMCC-IPV6 4, server: "[2606:4700:3036:ef:92f:be51:8695:9fc5]", port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
-  - {name: CMCC-IPV6 5, server: "[2606:4700:3036:6ed4:e1ed:ae00:3c36:e683]", port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
-  - {name: CMCC-IPV6 6, server: "[2606:4700:3036:0:a36a:4a94:8d40:c92c]", port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
+  - {name: 🇺🇲 加入我的频道t.me/CMLiussss解锁更多优选节点, server: Join.my.Telegram.channel.CMLiussss.to.unlock.more.premium.nodes.cf.090227.xyz, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560&proxyip=proxyip.us.fxxk.dedyn.io", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
+  - {name: CFnat, server: 127.0.0.1, port: 1234, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560&proxyip=proxyip.oracle.fxxk.dedyn.io", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
+  - {name: GB, server: 217.163.76.63, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560&proxyip=217.163.76.63:443", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
+  - {name: 🇺🇲 US, server: 198.62.62.208, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560&proxyip=198.62.62.208:443", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
+  - {name: 🇷🇺 RU, server: 45.67.215.95, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560&proxyip=45.67.215.95:443", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
+  - {name: 🇺🇲 US 2, server: 192.9.237.203, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560&proxyip=192.9.237.203:443", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
+  - {name: 🇺🇲 US 3, server: 192.0.54.172, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560&proxyip=192.0.54.172:443", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
+  - {name: GB 2, server: 217.163.76.203, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560&proxyip=217.163.76.203:443", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
+  - {name: 🇳🇱 NL, server: 37.1.207.228, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560&proxyip=37.1.207.228:443", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
+  - {name: 🇺🇲 US 4, server: 192.200.160.155, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560&proxyip=192.200.160.155:443", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
+  - {name: 🇸🇬 SG, server: 206.238.237.182, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560&proxyip=206.238.237.182:443", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
+  - {name: AT, server: 212.183.88.24, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560&proxyip=212.183.88.24:443", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
+  - {name: KZ, server: 194.76.18.50, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560&proxyip=194.76.18.50:443", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
+  - {name: 🇺🇲 US 5, server: 192.0.54.28, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560&proxyip=192.0.54.28:443", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
+  - {name: 🇸🇬 SG 2, server: 206.238.237.133, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560&proxyip=206.238.237.133:443", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
+  - {name: 🇺🇲 US 6, server: 192.200.160.44, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560&proxyip=192.200.160.44:443", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
+  - {name: 🇷🇺 RU 2, server: 45.67.215.42, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560&proxyip=45.67.215.42:443", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
+  - {name: 🇺🇲 US 7, server: 216.24.57.91, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560&proxyip=216.24.57.91:443", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
+  - {name: 🇯🇵 JP, server: 193.116.44.175, port: 11434, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560&proxyip=193.116.44.175:11434", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
+  - {name: 🇯🇵 JP 2, server: 59.190.202.155, port: 16064, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560&proxyip=59.190.202.155:16064", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
+  - {name: 🇸🇬 SG 3, server: 118.194.234.15, port: 14500, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560&proxyip=118.194.234.15:14500", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
+  - {name: 🇭🇰 HK, server: 43.154.164.106, port: 8250, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560&proxyip=43.154.164.106:8250", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
+  - {name: 🇰🇷 KR, server: 182.213.245.185, port: 30012, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560&proxyip=182.213.245.185:30012", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
+  - {name: 🇰🇷 KR 2, server: 1.243.104.99, port: 30012, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560&proxyip=1.243.104.99:30012", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
+  - {name: 🇰🇷 KR 3, server: 61.79.32.239, port: 19017, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560&proxyip=61.79.32.239:19017", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
+  - {name: 🇰🇷 KR 4, server: 121.152.86.72, port: 30012, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560&proxyip=121.152.86.72:30012", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
+  - {name: 🇺🇲 US 8, server: 204.110.220.252, port: 80, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560&proxyip=204.110.220.252:80", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
+  - {name: 🇺🇲 US 9, server: 172.245.223.124, port: 8100, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560&proxyip=172.245.223.124:8100", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
+  - {name: 🇺🇲 US 10, server: 104.168.43.27, port: 17635, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560&proxyip=104.168.43.27:17635", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
+  - {name: 🇺🇲 US 11, server: 65.75.192.35, port: 22857, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560&proxyip=65.75.192.35:22857", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
+  - {name: 🇺🇲 US 12, server: 129.146.243.241, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560&proxyip=129.146.243.241:443", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
+  - {name: 🇺🇲 US 13, server: 129.146.254.39, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560&proxyip=129.146.254.39:443", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
+  - {name: 🇺🇲 US 14, server: 129.146.46.164, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560&proxyip=129.146.46.164:443", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
+  - {name: 🇸🇪 SE, server: 129.151.198.3, port: 8443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560&proxyip=proxyip.oracle.fxxk.dedyn.io", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
+  - {name: 🇸🇪 SE 2, server: 129.151.204.91, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560&proxyip=129.151.204.91:443", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
+  - {name: 🇫🇷 FR, server: 129.151.225.228, port: 8443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560&proxyip=proxyip.oracle.fxxk.dedyn.io", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
+  - {name: IN, server: 129.154.254.254, port: 8443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560&proxyip=proxyip.oracle.fxxk.dedyn.io", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
+  - {name: IN 2, server: 129.154.46.115, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560&proxyip=129.154.46.115:443", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
+  - {name: 🇺🇲 US 15, server: 129.158.198.241, port: 8443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560&proxyip=proxyip.us.fxxk.dedyn.io", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
+  - {name: 🇺🇲 US 16, server: 129.159.34.122, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560&proxyip=129.159.34.122:443", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
+  - {name: 🇩🇪 DE, server: 130.61.129.93, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560&proxyip=130.61.129.93:443", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
+  - {name: 🇩🇪 DE 2, server: 130.61.170.78, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560&proxyip=130.61.170.78:443", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
+  - {name: 🇯🇵 JP 3, server: 131.186.60.210, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560&proxyip=131.186.60.210:443", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
+  - {name: 🇦🇺 AU, server: 140.238.201.118, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560&proxyip=140.238.201.118:443", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
+  - {name: 🇰🇷 KR 5, server: 140.238.23.148, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560&proxyip=140.238.23.148:443", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
+  - {name: 🇳🇱 NL 2, server: 141.144.193.219, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560&proxyip=141.144.193.219:443", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
+  - {name: 🇩🇪 DE 3, server: 141.147.61.116, port: 8443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560&proxyip=proxyip.oracle.fxxk.dedyn.io", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
+  - {name: 🇳🇱 NL 3, server: 141.148.229.106, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560&proxyip=141.148.229.106:443", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
+  - {name: 🇫🇷 FR 2, server: 144.24.200.164, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560&proxyip=144.24.200.164:443", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
+  - {name: 🇰🇷 KR 6, server: 146.56.41.215, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560&proxyip=146.56.41.215:443", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
+  - {name: 🇰🇷 KR 7, server: 146.56.43.53, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560&proxyip=146.56.43.53:443", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
+  - {name: IN 3, server: 150.230.238.226, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560&proxyip=150.230.238.226:443", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
+  - {name: 🇺🇲 US 17, server: 152.70.117.174, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560&proxyip=152.70.117.174:443", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
+  - {name: 🇳🇱 NL 4, server: 152.70.49.115, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560&proxyip=152.70.49.115:443", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
+  - {name: 🇯🇵 JP 4, server: 152.70.97.78, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560&proxyip=152.70.97.78:443", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
+  - {name: 🇺🇲 US 18, server: 154.17.21.134, port: 18446, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560&proxyip=154.17.21.134:18446", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
+  - {name: 🇺🇲 US 19, server: 158.101.24.17, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560&proxyip=158.101.24.17:443", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
+  - {name: 🇸🇬 SG 4, server: 168.138.162.187, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560&proxyip=168.138.162.187:443", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
+  - {name: 🇯🇵 JP 5, server: 168.138.46.67, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560&proxyip=168.138.46.67:443", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
+  - {name: 🇺🇲 US 20, server: 192.18.128.200, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560&proxyip=192.18.128.200:443", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
+  - {name: CA, server: 192.18.159.129, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560&proxyip=192.18.159.129:443", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
+  - {name: 🇺🇲 US 21, server: 192.9.157.76, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560&proxyip=192.9.157.76:443", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
+  - {name: 🇦🇺 AU 2, server: 192.9.180.162, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560&proxyip=192.9.180.162:443", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
+  - {name: 🇳🇱 NL 5, server: 193.123.62.153, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560&proxyip=193.123.62.153:443", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
+  - {name: 🇨🇳 TW, server: 210.61.97.241, port: 81, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560&proxyip=210.61.97.241:81", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
+  - {name: 🇭🇰 HK 2, server: 219.76.13.164, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560&proxyip=219.76.13.164:443", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
+  - {name: 🇭🇰 HK 3, server: 47.57.14.118, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560&proxyip=47.57.14.118:443", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
+  - {name: 🇺🇲 US 22, server: 47.90.141.204, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560&proxyip=47.90.141.204:443", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
+  - {name: 🇯🇵 JP 6, server: 64.110.104.30, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560&proxyip=64.110.104.30:443", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
+  - {name: CT, server: 162.159.153.138, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560&proxyip=proxyip.oracle.fxxk.dedyn.io", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
+  - {name: CT 2, server: 162.159.152.252, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560&proxyip=proxyip.oracle.fxxk.dedyn.io", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
+  - {name: CT 3, server: 162.159.152.223, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560&proxyip=proxyip.oracle.fxxk.dedyn.io", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
+  - {name: CT 4, server: 162.159.153.192, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560&proxyip=proxyip.oracle.fxxk.dedyn.io", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
+  - {name: CT 5, server: 162.159.152.150, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560&proxyip=proxyip.oracle.fxxk.dedyn.io", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
+  - {name: CT 6, server: 162.159.153.135, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560&proxyip=proxyip.oracle.fxxk.dedyn.io", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
+  - {name: CMCC, server: 104.19.34.51, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560&proxyip=proxyip.oracle.fxxk.dedyn.io", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
+  - {name: CMCC 2, server: 104.19.37.65, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560&proxyip=proxyip.oracle.fxxk.dedyn.io", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
+  - {name: CMCC 3, server: 104.19.40.144, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560&proxyip=proxyip.oracle.fxxk.dedyn.io", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
+  - {name: CMCC 4, server: 104.19.32.12, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560&proxyip=proxyip.oracle.fxxk.dedyn.io", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
+  - {name: CMCC 5, server: 104.19.35.145, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560&proxyip=proxyip.oracle.fxxk.dedyn.io", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
+  - {name: CMCC 6, server: 104.19.42.46, port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560&proxyip=proxyip.oracle.fxxk.dedyn.io", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
+  - {name: CMCC-IPV6, server: "[2606:4700:3036:ef:db9e:ee41:a8df:d3b2]", port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560&proxyip=proxyip.oracle.fxxk.dedyn.io", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
+  - {name: CMCC-IPV6 2, server: "[2606:4700:3036:ef:3f32:a9c6:39c4:9ae3]", port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560&proxyip=proxyip.oracle.fxxk.dedyn.io", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
+  - {name: CMCC-IPV6 3, server: "[2606:4700:3036:6ed4:e1ed:ae00:3c36:e683]", port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560&proxyip=proxyip.oracle.fxxk.dedyn.io", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
+  - {name: CMCC-IPV6 4, server: "[2606:4700:3036:6ed4:ff6e:712c:4953:87a5]", port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560&proxyip=proxyip.oracle.fxxk.dedyn.io", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
+  - {name: CMCC-IPV6 5, server: "[2606:4700:3036:6ed4:260:e3e9:a48c:8437]", port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560&proxyip=proxyip.oracle.fxxk.dedyn.io", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
+  - {name: CMCC-IPV6 6, server: "[2606:4700:3036:0:a36a:4aa4:75d9:9f75]", port: 443, type: trojan, password: auto, sni: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg, network: ws, ws-opts: {path: "/?ed=2560&proxyip=proxyip.oracle.fxxk.dedyn.io", headers: {Host: trojan.xn--cm-nk7c025a9uua2635cesu.us.kg}}}
   - {name: 🇯🇵 JP 7, server: 13.113.17.246, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
   - {name: 🇯🇵 JP 8, server: 13.115.255.151, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
   - {name: 🇰🇷 KR 8, server: 13.124.203.141, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
@@ -326,24 +326,24 @@ proxies:
   - {name: 🇰🇷 KR 11, server: 13.125.37.249, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
   - {name: 🇰🇷 KR 12, server: 13.125.51.118, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
   - {name: 🇰🇷 KR 13, server: 13.209.16.115, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-  - {name: 🇸🇬 SG 3, server: 13.212.149.182, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-  - {name: 🇸🇬 SG 4, server: 13.212.229.251, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-  - {name: 🇸🇬 SG 5, server: 13.212.77.91, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-  - {name: 🇸🇬 SG 6, server: 13.212.78.66, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-  - {name: 🇸🇬 SG 7, server: 13.213.30.242, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-  - {name: 🇸🇬 SG 8, server: 13.214.193.121, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-  - {name: 🇸🇬 SG 9, server: 13.215.205.186, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-  - {name: 🇸🇬 SG 10, server: 13.228.183.100, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-  - {name: 🇸🇬 SG 11, server: 13.229.212.209, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-  - {name: 🇸🇬 SG 12, server: 13.229.238.238, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-  - {name: 🇸🇬 SG 13, server: 13.229.98.87, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+  - {name: 🇸🇬 SG 5, server: 13.212.149.182, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+  - {name: 🇸🇬 SG 6, server: 13.212.229.251, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+  - {name: 🇸🇬 SG 7, server: 13.212.77.91, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+  - {name: 🇸🇬 SG 8, server: 13.212.78.66, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+  - {name: 🇸🇬 SG 9, server: 13.213.30.242, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+  - {name: 🇸🇬 SG 10, server: 13.214.193.121, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+  - {name: 🇸🇬 SG 11, server: 13.215.205.186, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+  - {name: 🇸🇬 SG 12, server: 13.228.183.100, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+  - {name: 🇸🇬 SG 13, server: 13.229.212.209, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+  - {name: 🇸🇬 SG 14, server: 13.229.238.238, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+  - {name: 🇸🇬 SG 15, server: 13.229.98.87, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
   - {name: 🇯🇵 JP 9, server: 13.230.104.31, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
   - {name: 🇯🇵 JP 10, server: 13.231.108.239, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
   - {name: 🇯🇵 JP 11, server: 13.231.227.176, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
   - {name: 🇯🇵 JP 12, server: 13.231.232.11, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-  - {name: 🇸🇬 SG 14, server: 13.250.3.43, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+  - {name: 🇸🇬 SG 16, server: 13.250.3.43, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
   - {name: 🇯🇵 JP 13, server: 175.41.236.186, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-  - {name: 🇸🇬 SG 15, server: 18.136.197.165, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+  - {name: 🇸🇬 SG 17, server: 18.136.197.165, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
   - {name: 🇯🇵 JP 14, server: 18.177.142.239, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
   - {name: 🇯🇵 JP 15, server: 18.183.171.233, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
   - {name: 🇯🇵 JP 16, server: 18.183.217.223, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
@@ -410,13 +410,13 @@ proxies:
   - {name: 🇺🇲 US 61, server: 44.244.24.140, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
   - {name: 🇺🇲 US 62, server: 44.244.25.243, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
   - {name: 🇺🇲 US 63, server: 44.244.35.146, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-  - {name: 🇸🇬 SG 16, server: 47.128.215.67, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-  - {name: 🇸🇬 SG 17, server: 47.129.170.82, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-  - {name: 🇸🇬 SG 18, server: 47.129.175.47, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-  - {name: 🇸🇬 SG 19, server: 47.129.221.160, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-  - {name: 🇸🇬 SG 20, server: 47.129.244.12, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-  - {name: 🇸🇬 SG 21, server: 47.129.50.131, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-  - {name: 🇸🇬 SG 22, server: 47.130.3.54, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+  - {name: 🇸🇬 SG 18, server: 47.128.215.67, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+  - {name: 🇸🇬 SG 19, server: 47.129.170.82, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+  - {name: 🇸🇬 SG 20, server: 47.129.175.47, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+  - {name: 🇸🇬 SG 21, server: 47.129.221.160, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+  - {name: 🇸🇬 SG 22, server: 47.129.244.12, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+  - {name: 🇸🇬 SG 23, server: 47.129.50.131, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+  - {name: 🇸🇬 SG 24, server: 47.130.3.54, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
   - {name: 🇺🇲 US 64, server: 50.112.199.89, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
   - {name: 🇺🇲 US 65, server: 52.10.33.211, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
   - {name: 🇺🇲 US 66, server: 52.12.87.156, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
@@ -427,14 +427,14 @@ proxies:
   - {name: 🇯🇵 JP 29, server: 52.198.194.170, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
   - {name: 🇯🇵 JP 30, server: 52.199.172.25, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
   - {name: 🇯🇵 JP 31, server: 52.199.202.220, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-  - {name: 🇸🇬 SG 23, server: 52.221.236.136, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-  - {name: 🇸🇬 SG 24, server: 52.221.255.53, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+  - {name: 🇸🇬 SG 25, server: 52.221.236.136, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+  - {name: 🇸🇬 SG 26, server: 52.221.255.53, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
   - {name: 🇺🇲 US 67, server: 52.25.20.41, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
   - {name: 🇺🇲 US 68, server: 52.33.189.33, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
   - {name: 🇺🇲 US 69, server: 52.43.67.42, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
   - {name: 🇯🇵 JP 32, server: 52.69.236.102, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-  - {name: 🇸🇬 SG 25, server: 52.77.209.61, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-  - {name: 🇸🇬 SG 26, server: 52.77.236.51, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+  - {name: 🇸🇬 SG 27, server: 52.77.209.61, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+  - {name: 🇸🇬 SG 28, server: 52.77.236.51, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
   - {name: 🇰🇷 KR 28, server: 52.79.157.153, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
   - {name: 🇰🇷 KR 29, server: 52.79.188.238, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
   - {name: 🇰🇷 KR 30, server: 52.79.56.225, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
@@ -442,9 +442,9 @@ proxies:
   - {name: 🇺🇲 US 71, server: 52.89.233.31, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
   - {name: 🇺🇲 US 72, server: 54.149.182.67, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
   - {name: 🇯🇵 JP 33, server: 54.168.231.174, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-  - {name: 🇸🇬 SG 27, server: 54.169.135.226, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-  - {name: 🇸🇬 SG 28, server: 54.169.139.18, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-  - {name: 🇸🇬 SG 29, server: 54.169.216.179, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+  - {name: 🇸🇬 SG 29, server: 54.169.135.226, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+  - {name: 🇸🇬 SG 30, server: 54.169.139.18, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+  - {name: 🇸🇬 SG 31, server: 54.169.216.179, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
   - {name: 🇰🇷 KR 31, server: 54.180.157.150, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
   - {name: 🇺🇲 US 73, server: 54.185.199.99, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
   - {name: 🇺🇲 US 74, server: 54.186.178.129, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
@@ -466,10 +466,10 @@ proxies:
   - {name: 🇯🇵 JP 37, server: 54.249.197.65, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
   - {name: 🇯🇵 JP 38, server: 54.250.148.116, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
   - {name: 🇯🇵 JP 39, server: 54.250.163.86, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-  - {name: 🇸🇬 SG 30, server: 54.254.186.175, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-  - {name: 🇸🇬 SG 31, server: 54.254.7.5, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-  - {name: 🇸🇬 SG 32, server: 54.255.237.249, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-  - {name: 🇸🇬 SG 33, server: 54.255.245.62, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+  - {name: 🇸🇬 SG 32, server: 54.254.186.175, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+  - {name: 🇸🇬 SG 33, server: 54.254.7.5, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+  - {name: 🇸🇬 SG 34, server: 54.255.237.249, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+  - {name: 🇸🇬 SG 35, server: 54.255.245.62, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
   - {name: 🇯🇵 JP 40, server: 54.64.20.76, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
   - {name: 🇺🇲 US 87, server: 54.68.160.24, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
   - {name: 🇺🇲 US 88, server: 54.69.144.178, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
@@ -496,7 +496,7 @@ proxy-groups:
   - name: 🚀 手动切换
     type: select
     proxies:
-      - mksshare：2.92 GB
+      - mksshare：2.31 GB
       - 🇭🇰 香港 01_mksshare
       - 🇭🇰 香港 02_mksshare
       - 🇭🇰 香港家宽 03_mksshare
@@ -724,25 +724,25 @@ proxy-groups:
       - 🇬🇧 英国|@ripaojiedian
       - 🇺🇲 加入我的频道t.me/CMLiussss解锁更多优选节点
       - CFnat
+      - GB
       - 🇺🇲 US
+      - 🇷🇺 RU
       - 🇺🇲 US 2
       - 🇺🇲 US 3
-      - 🇩🇪 DE
-      - DK
+      - GB 2
+      - 🇳🇱 NL
       - 🇺🇲 US 4
-      - 🇺🇲 US 5
-      - 🇩🇪 DE 2
-      - 🇺🇲 US 6
-      - 🇺🇲 US 7
-      - 🇩🇪 DE 3
+      - 🇸🇬 SG
+      - AT
       - KZ
-      - 🇧🇷 BR
-      - KZ 2
-      - GB
-      - 🇧🇷 BR 2
+      - 🇺🇲 US 5
+      - 🇸🇬 SG 2
+      - 🇺🇲 US 6
+      - 🇷🇺 RU 2
+      - 🇺🇲 US 7
       - 🇯🇵 JP
       - 🇯🇵 JP 2
-      - 🇸🇬 SG
+      - 🇸🇬 SG 3
       - 🇭🇰 HK
       - 🇰🇷 KR
       - 🇰🇷 KR 2
@@ -762,30 +762,30 @@ proxy-groups:
       - IN 2
       - 🇺🇲 US 15
       - 🇺🇲 US 16
-      - 🇩🇪 DE 4
-      - 🇩🇪 DE 5
+      - 🇩🇪 DE
+      - 🇩🇪 DE 2
       - 🇯🇵 JP 3
       - 🇦🇺 AU
       - 🇰🇷 KR 5
-      - 🇳🇱 NL
-      - 🇩🇪 DE 6
       - 🇳🇱 NL 2
+      - 🇩🇪 DE 3
+      - 🇳🇱 NL 3
       - 🇫🇷 FR 2
       - 🇰🇷 KR 6
       - 🇰🇷 KR 7
       - IN 3
       - 🇺🇲 US 17
-      - 🇳🇱 NL 3
+      - 🇳🇱 NL 4
       - 🇯🇵 JP 4
       - 🇺🇲 US 18
       - 🇺🇲 US 19
-      - 🇸🇬 SG 2
+      - 🇸🇬 SG 4
       - 🇯🇵 JP 5
       - 🇺🇲 US 20
       - CA
       - 🇺🇲 US 21
       - 🇦🇺 AU 2
-      - 🇳🇱 NL 4
+      - 🇳🇱 NL 5
       - 🇨🇳 TW
       - 🇭🇰 HK 2
       - 🇭🇰 HK 3
@@ -817,8 +817,6 @@ proxy-groups:
       - 🇰🇷 KR 11
       - 🇰🇷 KR 12
       - 🇰🇷 KR 13
-      - 🇸🇬 SG 3
-      - 🇸🇬 SG 4
       - 🇸🇬 SG 5
       - 🇸🇬 SG 6
       - 🇸🇬 SG 7
@@ -828,13 +826,15 @@ proxy-groups:
       - 🇸🇬 SG 11
       - 🇸🇬 SG 12
       - 🇸🇬 SG 13
+      - 🇸🇬 SG 14
+      - 🇸🇬 SG 15
       - 🇯🇵 JP 9
       - 🇯🇵 JP 10
       - 🇯🇵 JP 11
       - 🇯🇵 JP 12
-      - 🇸🇬 SG 14
+      - 🇸🇬 SG 16
       - 🇯🇵 JP 13
-      - 🇸🇬 SG 15
+      - 🇸🇬 SG 17
       - 🇯🇵 JP 14
       - 🇯🇵 JP 15
       - 🇯🇵 JP 16
@@ -901,13 +901,13 @@ proxy-groups:
       - 🇺🇲 US 61
       - 🇺🇲 US 62
       - 🇺🇲 US 63
-      - 🇸🇬 SG 16
-      - 🇸🇬 SG 17
       - 🇸🇬 SG 18
       - 🇸🇬 SG 19
       - 🇸🇬 SG 20
       - 🇸🇬 SG 21
       - 🇸🇬 SG 22
+      - 🇸🇬 SG 23
+      - 🇸🇬 SG 24
       - 🇺🇲 US 64
       - 🇺🇲 US 65
       - 🇺🇲 US 66
@@ -918,14 +918,14 @@ proxy-groups:
       - 🇯🇵 JP 29
       - 🇯🇵 JP 30
       - 🇯🇵 JP 31
-      - 🇸🇬 SG 23
-      - 🇸🇬 SG 24
+      - 🇸🇬 SG 25
+      - 🇸🇬 SG 26
       - 🇺🇲 US 67
       - 🇺🇲 US 68
       - 🇺🇲 US 69
       - 🇯🇵 JP 32
-      - 🇸🇬 SG 25
-      - 🇸🇬 SG 26
+      - 🇸🇬 SG 27
+      - 🇸🇬 SG 28
       - 🇰🇷 KR 28
       - 🇰🇷 KR 29
       - 🇰🇷 KR 30
@@ -933,9 +933,9 @@ proxy-groups:
       - 🇺🇲 US 71
       - 🇺🇲 US 72
       - 🇯🇵 JP 33
-      - 🇸🇬 SG 27
-      - 🇸🇬 SG 28
       - 🇸🇬 SG 29
+      - 🇸🇬 SG 30
+      - 🇸🇬 SG 31
       - 🇰🇷 KR 31
       - 🇺🇲 US 73
       - 🇺🇲 US 74
@@ -957,10 +957,10 @@ proxy-groups:
       - 🇯🇵 JP 37
       - 🇯🇵 JP 38
       - 🇯🇵 JP 39
-      - 🇸🇬 SG 30
-      - 🇸🇬 SG 31
       - 🇸🇬 SG 32
       - 🇸🇬 SG 33
+      - 🇸🇬 SG 34
+      - 🇸🇬 SG 35
       - 🇯🇵 JP 40
       - 🇺🇲 US 87
       - 🇺🇲 US 88
@@ -975,7 +975,7 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
-      - mksshare：2.92 GB
+      - mksshare：2.31 GB
       - 🇭🇰 香港 01_mksshare
       - 🇭🇰 香港 02_mksshare
       - 🇭🇰 香港家宽 03_mksshare
@@ -1203,25 +1203,25 @@ proxy-groups:
       - 🇬🇧 英国|@ripaojiedian
       - 🇺🇲 加入我的频道t.me/CMLiussss解锁更多优选节点
       - CFnat
+      - GB
       - 🇺🇲 US
+      - 🇷🇺 RU
       - 🇺🇲 US 2
       - 🇺🇲 US 3
-      - 🇩🇪 DE
-      - DK
+      - GB 2
+      - 🇳🇱 NL
       - 🇺🇲 US 4
-      - 🇺🇲 US 5
-      - 🇩🇪 DE 2
-      - 🇺🇲 US 6
-      - 🇺🇲 US 7
-      - 🇩🇪 DE 3
+      - 🇸🇬 SG
+      - AT
       - KZ
-      - 🇧🇷 BR
-      - KZ 2
-      - GB
-      - 🇧🇷 BR 2
+      - 🇺🇲 US 5
+      - 🇸🇬 SG 2
+      - 🇺🇲 US 6
+      - 🇷🇺 RU 2
+      - 🇺🇲 US 7
       - 🇯🇵 JP
       - 🇯🇵 JP 2
-      - 🇸🇬 SG
+      - 🇸🇬 SG 3
       - 🇭🇰 HK
       - 🇰🇷 KR
       - 🇰🇷 KR 2
@@ -1241,30 +1241,30 @@ proxy-groups:
       - IN 2
       - 🇺🇲 US 15
       - 🇺🇲 US 16
-      - 🇩🇪 DE 4
-      - 🇩🇪 DE 5
+      - 🇩🇪 DE
+      - 🇩🇪 DE 2
       - 🇯🇵 JP 3
       - 🇦🇺 AU
       - 🇰🇷 KR 5
-      - 🇳🇱 NL
-      - 🇩🇪 DE 6
       - 🇳🇱 NL 2
+      - 🇩🇪 DE 3
+      - 🇳🇱 NL 3
       - 🇫🇷 FR 2
       - 🇰🇷 KR 6
       - 🇰🇷 KR 7
       - IN 3
       - 🇺🇲 US 17
-      - 🇳🇱 NL 3
+      - 🇳🇱 NL 4
       - 🇯🇵 JP 4
       - 🇺🇲 US 18
       - 🇺🇲 US 19
-      - 🇸🇬 SG 2
+      - 🇸🇬 SG 4
       - 🇯🇵 JP 5
       - 🇺🇲 US 20
       - CA
       - 🇺🇲 US 21
       - 🇦🇺 AU 2
-      - 🇳🇱 NL 4
+      - 🇳🇱 NL 5
       - 🇨🇳 TW
       - 🇭🇰 HK 2
       - 🇭🇰 HK 3
@@ -1296,8 +1296,6 @@ proxy-groups:
       - 🇰🇷 KR 11
       - 🇰🇷 KR 12
       - 🇰🇷 KR 13
-      - 🇸🇬 SG 3
-      - 🇸🇬 SG 4
       - 🇸🇬 SG 5
       - 🇸🇬 SG 6
       - 🇸🇬 SG 7
@@ -1307,13 +1305,15 @@ proxy-groups:
       - 🇸🇬 SG 11
       - 🇸🇬 SG 12
       - 🇸🇬 SG 13
+      - 🇸🇬 SG 14
+      - 🇸🇬 SG 15
       - 🇯🇵 JP 9
       - 🇯🇵 JP 10
       - 🇯🇵 JP 11
       - 🇯🇵 JP 12
-      - 🇸🇬 SG 14
+      - 🇸🇬 SG 16
       - 🇯🇵 JP 13
-      - 🇸🇬 SG 15
+      - 🇸🇬 SG 17
       - 🇯🇵 JP 14
       - 🇯🇵 JP 15
       - 🇯🇵 JP 16
@@ -1380,13 +1380,13 @@ proxy-groups:
       - 🇺🇲 US 61
       - 🇺🇲 US 62
       - 🇺🇲 US 63
-      - 🇸🇬 SG 16
-      - 🇸🇬 SG 17
       - 🇸🇬 SG 18
       - 🇸🇬 SG 19
       - 🇸🇬 SG 20
       - 🇸🇬 SG 21
       - 🇸🇬 SG 22
+      - 🇸🇬 SG 23
+      - 🇸🇬 SG 24
       - 🇺🇲 US 64
       - 🇺🇲 US 65
       - 🇺🇲 US 66
@@ -1397,14 +1397,14 @@ proxy-groups:
       - 🇯🇵 JP 29
       - 🇯🇵 JP 30
       - 🇯🇵 JP 31
-      - 🇸🇬 SG 23
-      - 🇸🇬 SG 24
+      - 🇸🇬 SG 25
+      - 🇸🇬 SG 26
       - 🇺🇲 US 67
       - 🇺🇲 US 68
       - 🇺🇲 US 69
       - 🇯🇵 JP 32
-      - 🇸🇬 SG 25
-      - 🇸🇬 SG 26
+      - 🇸🇬 SG 27
+      - 🇸🇬 SG 28
       - 🇰🇷 KR 28
       - 🇰🇷 KR 29
       - 🇰🇷 KR 30
@@ -1412,9 +1412,9 @@ proxy-groups:
       - 🇺🇲 US 71
       - 🇺🇲 US 72
       - 🇯🇵 JP 33
-      - 🇸🇬 SG 27
-      - 🇸🇬 SG 28
       - 🇸🇬 SG 29
+      - 🇸🇬 SG 30
+      - 🇸🇬 SG 31
       - 🇰🇷 KR 31
       - 🇺🇲 US 73
       - 🇺🇲 US 74
@@ -1436,10 +1436,10 @@ proxy-groups:
       - 🇯🇵 JP 37
       - 🇯🇵 JP 38
       - 🇯🇵 JP 39
-      - 🇸🇬 SG 30
-      - 🇸🇬 SG 31
       - 🇸🇬 SG 32
       - 🇸🇬 SG 33
+      - 🇸🇬 SG 34
+      - 🇸🇬 SG 35
       - 🇯🇵 JP 40
       - 🇺🇲 US 87
       - 🇺🇲 US 88
@@ -1454,7 +1454,7 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
-      - mksshare：2.92 GB
+      - mksshare：2.31 GB
       - 🇭🇰 香港 01_mksshare
       - 🇭🇰 香港 02_mksshare
       - 🇭🇰 香港家宽 03_mksshare
@@ -1682,25 +1682,25 @@ proxy-groups:
       - 🇬🇧 英国|@ripaojiedian
       - 🇺🇲 加入我的频道t.me/CMLiussss解锁更多优选节点
       - CFnat
+      - GB
       - 🇺🇲 US
+      - 🇷🇺 RU
       - 🇺🇲 US 2
       - 🇺🇲 US 3
-      - 🇩🇪 DE
-      - DK
+      - GB 2
+      - 🇳🇱 NL
       - 🇺🇲 US 4
-      - 🇺🇲 US 5
-      - 🇩🇪 DE 2
-      - 🇺🇲 US 6
-      - 🇺🇲 US 7
-      - 🇩🇪 DE 3
+      - 🇸🇬 SG
+      - AT
       - KZ
-      - 🇧🇷 BR
-      - KZ 2
-      - GB
-      - 🇧🇷 BR 2
+      - 🇺🇲 US 5
+      - 🇸🇬 SG 2
+      - 🇺🇲 US 6
+      - 🇷🇺 RU 2
+      - 🇺🇲 US 7
       - 🇯🇵 JP
       - 🇯🇵 JP 2
-      - 🇸🇬 SG
+      - 🇸🇬 SG 3
       - 🇭🇰 HK
       - 🇰🇷 KR
       - 🇰🇷 KR 2
@@ -1720,30 +1720,30 @@ proxy-groups:
       - IN 2
       - 🇺🇲 US 15
       - 🇺🇲 US 16
-      - 🇩🇪 DE 4
-      - 🇩🇪 DE 5
+      - 🇩🇪 DE
+      - 🇩🇪 DE 2
       - 🇯🇵 JP 3
       - 🇦🇺 AU
       - 🇰🇷 KR 5
-      - 🇳🇱 NL
-      - 🇩🇪 DE 6
       - 🇳🇱 NL 2
+      - 🇩🇪 DE 3
+      - 🇳🇱 NL 3
       - 🇫🇷 FR 2
       - 🇰🇷 KR 6
       - 🇰🇷 KR 7
       - IN 3
       - 🇺🇲 US 17
-      - 🇳🇱 NL 3
+      - 🇳🇱 NL 4
       - 🇯🇵 JP 4
       - 🇺🇲 US 18
       - 🇺🇲 US 19
-      - 🇸🇬 SG 2
+      - 🇸🇬 SG 4
       - 🇯🇵 JP 5
       - 🇺🇲 US 20
       - CA
       - 🇺🇲 US 21
       - 🇦🇺 AU 2
-      - 🇳🇱 NL 4
+      - 🇳🇱 NL 5
       - 🇨🇳 TW
       - 🇭🇰 HK 2
       - 🇭🇰 HK 3
@@ -1775,8 +1775,6 @@ proxy-groups:
       - 🇰🇷 KR 11
       - 🇰🇷 KR 12
       - 🇰🇷 KR 13
-      - 🇸🇬 SG 3
-      - 🇸🇬 SG 4
       - 🇸🇬 SG 5
       - 🇸🇬 SG 6
       - 🇸🇬 SG 7
@@ -1786,13 +1784,15 @@ proxy-groups:
       - 🇸🇬 SG 11
       - 🇸🇬 SG 12
       - 🇸🇬 SG 13
+      - 🇸🇬 SG 14
+      - 🇸🇬 SG 15
       - 🇯🇵 JP 9
       - 🇯🇵 JP 10
       - 🇯🇵 JP 11
       - 🇯🇵 JP 12
-      - 🇸🇬 SG 14
+      - 🇸🇬 SG 16
       - 🇯🇵 JP 13
-      - 🇸🇬 SG 15
+      - 🇸🇬 SG 17
       - 🇯🇵 JP 14
       - 🇯🇵 JP 15
       - 🇯🇵 JP 16
@@ -1859,13 +1859,13 @@ proxy-groups:
       - 🇺🇲 US 61
       - 🇺🇲 US 62
       - 🇺🇲 US 63
-      - 🇸🇬 SG 16
-      - 🇸🇬 SG 17
       - 🇸🇬 SG 18
       - 🇸🇬 SG 19
       - 🇸🇬 SG 20
       - 🇸🇬 SG 21
       - 🇸🇬 SG 22
+      - 🇸🇬 SG 23
+      - 🇸🇬 SG 24
       - 🇺🇲 US 64
       - 🇺🇲 US 65
       - 🇺🇲 US 66
@@ -1876,14 +1876,14 @@ proxy-groups:
       - 🇯🇵 JP 29
       - 🇯🇵 JP 30
       - 🇯🇵 JP 31
-      - 🇸🇬 SG 23
-      - 🇸🇬 SG 24
+      - 🇸🇬 SG 25
+      - 🇸🇬 SG 26
       - 🇺🇲 US 67
       - 🇺🇲 US 68
       - 🇺🇲 US 69
       - 🇯🇵 JP 32
-      - 🇸🇬 SG 25
-      - 🇸🇬 SG 26
+      - 🇸🇬 SG 27
+      - 🇸🇬 SG 28
       - 🇰🇷 KR 28
       - 🇰🇷 KR 29
       - 🇰🇷 KR 30
@@ -1891,9 +1891,9 @@ proxy-groups:
       - 🇺🇲 US 71
       - 🇺🇲 US 72
       - 🇯🇵 JP 33
-      - 🇸🇬 SG 27
-      - 🇸🇬 SG 28
       - 🇸🇬 SG 29
+      - 🇸🇬 SG 30
+      - 🇸🇬 SG 31
       - 🇰🇷 KR 31
       - 🇺🇲 US 73
       - 🇺🇲 US 74
@@ -1915,10 +1915,10 @@ proxy-groups:
       - 🇯🇵 JP 37
       - 🇯🇵 JP 38
       - 🇯🇵 JP 39
-      - 🇸🇬 SG 30
-      - 🇸🇬 SG 31
       - 🇸🇬 SG 32
       - 🇸🇬 SG 33
+      - 🇸🇬 SG 34
+      - 🇸🇬 SG 35
       - 🇯🇵 JP 40
       - 🇺🇲 US 87
       - 🇺🇲 US 88
@@ -1934,7 +1934,7 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
-      - mksshare：2.92 GB
+      - mksshare：2.31 GB
       - 🇭🇰 香港 01_mksshare
       - 🇭🇰 香港 02_mksshare
       - 🇭🇰 香港家宽 03_mksshare
@@ -2162,25 +2162,25 @@ proxy-groups:
       - 🇬🇧 英国|@ripaojiedian
       - 🇺🇲 加入我的频道t.me/CMLiussss解锁更多优选节点
       - CFnat
+      - GB
       - 🇺🇲 US
+      - 🇷🇺 RU
       - 🇺🇲 US 2
       - 🇺🇲 US 3
-      - 🇩🇪 DE
-      - DK
+      - GB 2
+      - 🇳🇱 NL
       - 🇺🇲 US 4
-      - 🇺🇲 US 5
-      - 🇩🇪 DE 2
-      - 🇺🇲 US 6
-      - 🇺🇲 US 7
-      - 🇩🇪 DE 3
+      - 🇸🇬 SG
+      - AT
       - KZ
-      - 🇧🇷 BR
-      - KZ 2
-      - GB
-      - 🇧🇷 BR 2
+      - 🇺🇲 US 5
+      - 🇸🇬 SG 2
+      - 🇺🇲 US 6
+      - 🇷🇺 RU 2
+      - 🇺🇲 US 7
       - 🇯🇵 JP
       - 🇯🇵 JP 2
-      - 🇸🇬 SG
+      - 🇸🇬 SG 3
       - 🇭🇰 HK
       - 🇰🇷 KR
       - 🇰🇷 KR 2
@@ -2200,30 +2200,30 @@ proxy-groups:
       - IN 2
       - 🇺🇲 US 15
       - 🇺🇲 US 16
-      - 🇩🇪 DE 4
-      - 🇩🇪 DE 5
+      - 🇩🇪 DE
+      - 🇩🇪 DE 2
       - 🇯🇵 JP 3
       - 🇦🇺 AU
       - 🇰🇷 KR 5
-      - 🇳🇱 NL
-      - 🇩🇪 DE 6
       - 🇳🇱 NL 2
+      - 🇩🇪 DE 3
+      - 🇳🇱 NL 3
       - 🇫🇷 FR 2
       - 🇰🇷 KR 6
       - 🇰🇷 KR 7
       - IN 3
       - 🇺🇲 US 17
-      - 🇳🇱 NL 3
+      - 🇳🇱 NL 4
       - 🇯🇵 JP 4
       - 🇺🇲 US 18
       - 🇺🇲 US 19
-      - 🇸🇬 SG 2
+      - 🇸🇬 SG 4
       - 🇯🇵 JP 5
       - 🇺🇲 US 20
       - CA
       - 🇺🇲 US 21
       - 🇦🇺 AU 2
-      - 🇳🇱 NL 4
+      - 🇳🇱 NL 5
       - 🇨🇳 TW
       - 🇭🇰 HK 2
       - 🇭🇰 HK 3
@@ -2255,8 +2255,6 @@ proxy-groups:
       - 🇰🇷 KR 11
       - 🇰🇷 KR 12
       - 🇰🇷 KR 13
-      - 🇸🇬 SG 3
-      - 🇸🇬 SG 4
       - 🇸🇬 SG 5
       - 🇸🇬 SG 6
       - 🇸🇬 SG 7
@@ -2266,13 +2264,15 @@ proxy-groups:
       - 🇸🇬 SG 11
       - 🇸🇬 SG 12
       - 🇸🇬 SG 13
+      - 🇸🇬 SG 14
+      - 🇸🇬 SG 15
       - 🇯🇵 JP 9
       - 🇯🇵 JP 10
       - 🇯🇵 JP 11
       - 🇯🇵 JP 12
-      - 🇸🇬 SG 14
+      - 🇸🇬 SG 16
       - 🇯🇵 JP 13
-      - 🇸🇬 SG 15
+      - 🇸🇬 SG 17
       - 🇯🇵 JP 14
       - 🇯🇵 JP 15
       - 🇯🇵 JP 16
@@ -2339,13 +2339,13 @@ proxy-groups:
       - 🇺🇲 US 61
       - 🇺🇲 US 62
       - 🇺🇲 US 63
-      - 🇸🇬 SG 16
-      - 🇸🇬 SG 17
       - 🇸🇬 SG 18
       - 🇸🇬 SG 19
       - 🇸🇬 SG 20
       - 🇸🇬 SG 21
       - 🇸🇬 SG 22
+      - 🇸🇬 SG 23
+      - 🇸🇬 SG 24
       - 🇺🇲 US 64
       - 🇺🇲 US 65
       - 🇺🇲 US 66
@@ -2356,14 +2356,14 @@ proxy-groups:
       - 🇯🇵 JP 29
       - 🇯🇵 JP 30
       - 🇯🇵 JP 31
-      - 🇸🇬 SG 23
-      - 🇸🇬 SG 24
+      - 🇸🇬 SG 25
+      - 🇸🇬 SG 26
       - 🇺🇲 US 67
       - 🇺🇲 US 68
       - 🇺🇲 US 69
       - 🇯🇵 JP 32
-      - 🇸🇬 SG 25
-      - 🇸🇬 SG 26
+      - 🇸🇬 SG 27
+      - 🇸🇬 SG 28
       - 🇰🇷 KR 28
       - 🇰🇷 KR 29
       - 🇰🇷 KR 30
@@ -2371,9 +2371,9 @@ proxy-groups:
       - 🇺🇲 US 71
       - 🇺🇲 US 72
       - 🇯🇵 JP 33
-      - 🇸🇬 SG 27
-      - 🇸🇬 SG 28
       - 🇸🇬 SG 29
+      - 🇸🇬 SG 30
+      - 🇸🇬 SG 31
       - 🇰🇷 KR 31
       - 🇺🇲 US 73
       - 🇺🇲 US 74
@@ -2395,10 +2395,10 @@ proxy-groups:
       - 🇯🇵 JP 37
       - 🇯🇵 JP 38
       - 🇯🇵 JP 39
-      - 🇸🇬 SG 30
-      - 🇸🇬 SG 31
       - 🇸🇬 SG 32
       - 🇸🇬 SG 33
+      - 🇸🇬 SG 34
+      - 🇸🇬 SG 35
       - 🇯🇵 JP 40
       - 🇺🇲 US 87
       - 🇺🇲 US 88
@@ -2928,6 +2928,8 @@ proxy-groups:
       - 🇸🇬 SG 31
       - 🇸🇬 SG 32
       - 🇸🇬 SG 33
+      - 🇸🇬 SG 34
+      - 🇸🇬 SG 35
   - name: 🇰🇷 韩国节点
     type: url-test
     url: http://www.gstatic.com/generate_204
