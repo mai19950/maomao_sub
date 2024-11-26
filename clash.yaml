@@ -5,42 +5,42 @@ mode: Rule
 log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
-  - {name: tolinkshare2：1.25 GB, server: free.6vczxw.xyz, port: 41141, type: ss, cipher: chacha20-ietf-poly1305, password: b292b0a1-6516-42c5-82ca-b19a0cafd147}
-  - {name: 🇭🇰 香港01_tolinkshare2, server: free.6vczxw.xyz, port: 41141, type: ss, cipher: chacha20-ietf-poly1305, password: b292b0a1-6516-42c5-82ca-b19a0cafd147}
-  - {name: 🇭🇰 香港02_tolinkshare2, server: free.6vczxw.xyz, port: 41143, type: ss, cipher: chacha20-ietf-poly1305, password: b292b0a1-6516-42c5-82ca-b19a0cafd147}
-  - {name: 🇭🇰 香港03_tolinkshare2, server: free.6vczxw.xyz, port: 41145, type: ss, cipher: chacha20-ietf-poly1305, password: b292b0a1-6516-42c5-82ca-b19a0cafd147}
-  - {name: 🇨🇳 台湾01_tolinkshare2, server: free.6vczxw.xyz, port: 41241, type: ss, cipher: chacha20-ietf-poly1305, password: b292b0a1-6516-42c5-82ca-b19a0cafd147}
-  - {name: 🇨🇳 台湾02_tolinkshare2, server: free.6vczxw.xyz, port: 41243, type: ss, cipher: chacha20-ietf-poly1305, password: b292b0a1-6516-42c5-82ca-b19a0cafd147}
-  - {name: 🇨🇳 台湾03_tolinkshare2, server: free.6vczxw.xyz, port: 41245, type: ss, cipher: chacha20-ietf-poly1305, password: b292b0a1-6516-42c5-82ca-b19a0cafd147}
-  - {name: 🇯🇵 日本01_tolinkshare2, server: free.6vczxw.xyz, port: 41111, type: ss, cipher: chacha20-ietf-poly1305, password: b292b0a1-6516-42c5-82ca-b19a0cafd147}
-  - {name: 🇯🇵 日本02_tolinkshare2, server: free.6vczxw.xyz, port: 41113, type: ss, cipher: chacha20-ietf-poly1305, password: b292b0a1-6516-42c5-82ca-b19a0cafd147}
-  - {name: 🇯🇵 日本03_tolinkshare2, server: free.6vczxw.xyz, port: 41115, type: ss, cipher: chacha20-ietf-poly1305, password: b292b0a1-6516-42c5-82ca-b19a0cafd147}
-  - {name: 🇸🇬 新加坡01_tolinkshare2, server: free.6vczxw.xyz, port: 41171, type: ss, cipher: chacha20-ietf-poly1305, password: b292b0a1-6516-42c5-82ca-b19a0cafd147}
-  - {name: 🇸🇬 新加坡02_tolinkshare2, server: free.6vczxw.xyz, port: 41173, type: ss, cipher: chacha20-ietf-poly1305, password: b292b0a1-6516-42c5-82ca-b19a0cafd147}
-  - {name: 🇸🇬 新加坡03_tolinkshare2, server: free.6vczxw.xyz, port: 41175, type: ss, cipher: chacha20-ietf-poly1305, password: b292b0a1-6516-42c5-82ca-b19a0cafd147}
-  - {name: 🇰🇷 韩国01_tolinkshare2, server: free.6vczxw.xyz, port: 41311, type: ss, cipher: chacha20-ietf-poly1305, password: b292b0a1-6516-42c5-82ca-b19a0cafd147}
-  - {name: 🇰🇷 韩国02_tolinkshare2, server: free.6vczxw.xyz, port: 41313, type: ss, cipher: chacha20-ietf-poly1305, password: b292b0a1-6516-42c5-82ca-b19a0cafd147}
-  - {name: 🇰🇷 韩国03_tolinkshare2, server: free.6vczxw.xyz, port: 41315, type: ss, cipher: chacha20-ietf-poly1305, password: b292b0a1-6516-42c5-82ca-b19a0cafd147}
-  - {name: 🇵🇭 菲律宾01_tolinkshare2, server: free.6vczxw.xyz, port: 41341, type: ss, cipher: chacha20-ietf-poly1305, password: b292b0a1-6516-42c5-82ca-b19a0cafd147}
-  - {name: 🇺🇲 美国01_tolinkshare2, server: free.6vczxw.xyz, port: 41211, type: ss, cipher: chacha20-ietf-poly1305, password: b292b0a1-6516-42c5-82ca-b19a0cafd147}
-  - {name: 🇺🇲 美国02_tolinkshare2, server: free.6vczxw.xyz, port: 41213, type: ss, cipher: chacha20-ietf-poly1305, password: b292b0a1-6516-42c5-82ca-b19a0cafd147}
-  - {name: 🇺🇲 美国03_tolinkshare2, server: free.6vczxw.xyz, port: 41215, type: ss, cipher: chacha20-ietf-poly1305, password: b292b0a1-6516-42c5-82ca-b19a0cafd147}
-  - {name: 🇺🇲 美国04_tolinkshare2, server: free.6vczxw.xyz, port: 41217, type: ss, cipher: chacha20-ietf-poly1305, password: b292b0a1-6516-42c5-82ca-b19a0cafd147}
-  - {name: 🇺🇲 美国05_tolinkshare2, server: free.6vczxw.xyz, port: 41219, type: ss, cipher: chacha20-ietf-poly1305, password: b292b0a1-6516-42c5-82ca-b19a0cafd147}
-  - {name: 🇺🇲 美国06_tolinkshare2, server: free.6vczxw.xyz, port: 41221, type: ss, cipher: chacha20-ietf-poly1305, password: b292b0a1-6516-42c5-82ca-b19a0cafd147}
-  - {name: 🇬🇧 英国01_tolinkshare2, server: free.6vczxw.xyz, port: 41271, type: ss, cipher: chacha20-ietf-poly1305, password: b292b0a1-6516-42c5-82ca-b19a0cafd147}
-  - {name: 西班牙01_tolinkshare2, server: free.6vczxw.xyz, port: 41741, type: ss, cipher: chacha20-ietf-poly1305, password: b292b0a1-6516-42c5-82ca-b19a0cafd147}
-  - {name: 🇲🇾 马来西亚01_tolinkshare2, server: free.6vczxw.xyz, port: 41721, type: ss, cipher: chacha20-ietf-poly1305, password: b292b0a1-6516-42c5-82ca-b19a0cafd147}
-  - {name: 🇹🇭 泰国01_tolinkshare2, server: free.6vczxw.xyz, port: 41731, type: ss, cipher: chacha20-ietf-poly1305, password: b292b0a1-6516-42c5-82ca-b19a0cafd147}
-  - {name: 🇮🇳 印度01_tolinkshare2, server: free.6vczxw.xyz, port: 41371, type: ss, cipher: chacha20-ietf-poly1305, password: b292b0a1-6516-42c5-82ca-b19a0cafd147}
-  - {name: 🇦🇺 澳大利亚01_tolinkshare2, server: free.6vczxw.xyz, port: 41411, type: ss, cipher: chacha20-ietf-poly1305, password: b292b0a1-6516-42c5-82ca-b19a0cafd147}
-  - {name: 🇨🇦 加拿大01_tolinkshare2, server: free.6vczxw.xyz, port: 41441, type: ss, cipher: chacha20-ietf-poly1305, password: b292b0a1-6516-42c5-82ca-b19a0cafd147}
-  - {name: 🇩🇪 德国01_tolinkshare2, server: free.6vczxw.xyz, port: 41471, type: ss, cipher: chacha20-ietf-poly1305, password: b292b0a1-6516-42c5-82ca-b19a0cafd147}
-  - {name: 🇷🇺 俄罗斯01_tolinkshare2, server: free.6vczxw.xyz, port: 41511, type: ss, cipher: chacha20-ietf-poly1305, password: b292b0a1-6516-42c5-82ca-b19a0cafd147}
-  - {name: 🇹🇷 土耳其01_tolinkshare2, server: free.6vczxw.xyz, port: 41571, type: ss, cipher: chacha20-ietf-poly1305, password: b292b0a1-6516-42c5-82ca-b19a0cafd147}
-  - {name: 乌克兰01_tolinkshare2, server: free.6vczxw.xyz, port: 41611, type: ss, cipher: chacha20-ietf-poly1305, password: b292b0a1-6516-42c5-82ca-b19a0cafd147}
-  - {name: 🇻🇳 越南01_tolinkshare2, server: free.6vczxw.xyz, port: 41641, type: ss, cipher: chacha20-ietf-poly1305, password: b292b0a1-6516-42c5-82ca-b19a0cafd147}
-  - {name: 🇧🇷 巴西01_tolinkshare2, server: free.6vczxw.xyz, port: 41671, type: ss, cipher: chacha20-ietf-poly1305, password: b292b0a1-6516-42c5-82ca-b19a0cafd147}
+  - {name: tolinkshare2：4.3 GB, server: free.6vczxw.xyz, port: 41141, type: ss, cipher: chacha20-ietf-poly1305, password: 4a69317b-1cea-4baa-a25f-00f43aaf6559}
+  - {name: 🇭🇰 香港01_tolinkshare2, server: free.6vczxw.xyz, port: 41141, type: ss, cipher: chacha20-ietf-poly1305, password: 4a69317b-1cea-4baa-a25f-00f43aaf6559}
+  - {name: 🇭🇰 香港02_tolinkshare2, server: free.6vczxw.xyz, port: 41143, type: ss, cipher: chacha20-ietf-poly1305, password: 4a69317b-1cea-4baa-a25f-00f43aaf6559}
+  - {name: 🇭🇰 香港03_tolinkshare2, server: free.6vczxw.xyz, port: 41145, type: ss, cipher: chacha20-ietf-poly1305, password: 4a69317b-1cea-4baa-a25f-00f43aaf6559}
+  - {name: 🇨🇳 台湾01_tolinkshare2, server: free.6vczxw.xyz, port: 41241, type: ss, cipher: chacha20-ietf-poly1305, password: 4a69317b-1cea-4baa-a25f-00f43aaf6559}
+  - {name: 🇨🇳 台湾02_tolinkshare2, server: free.6vczxw.xyz, port: 41243, type: ss, cipher: chacha20-ietf-poly1305, password: 4a69317b-1cea-4baa-a25f-00f43aaf6559}
+  - {name: 🇨🇳 台湾03_tolinkshare2, server: free.6vczxw.xyz, port: 41245, type: ss, cipher: chacha20-ietf-poly1305, password: 4a69317b-1cea-4baa-a25f-00f43aaf6559}
+  - {name: 🇯🇵 日本01_tolinkshare2, server: free.6vczxw.xyz, port: 41111, type: ss, cipher: chacha20-ietf-poly1305, password: 4a69317b-1cea-4baa-a25f-00f43aaf6559}
+  - {name: 🇯🇵 日本02_tolinkshare2, server: free.6vczxw.xyz, port: 41113, type: ss, cipher: chacha20-ietf-poly1305, password: 4a69317b-1cea-4baa-a25f-00f43aaf6559}
+  - {name: 🇯🇵 日本03_tolinkshare2, server: free.6vczxw.xyz, port: 41115, type: ss, cipher: chacha20-ietf-poly1305, password: 4a69317b-1cea-4baa-a25f-00f43aaf6559}
+  - {name: 🇸🇬 新加坡01_tolinkshare2, server: free.6vczxw.xyz, port: 41171, type: ss, cipher: chacha20-ietf-poly1305, password: 4a69317b-1cea-4baa-a25f-00f43aaf6559}
+  - {name: 🇸🇬 新加坡02_tolinkshare2, server: free.6vczxw.xyz, port: 41173, type: ss, cipher: chacha20-ietf-poly1305, password: 4a69317b-1cea-4baa-a25f-00f43aaf6559}
+  - {name: 🇸🇬 新加坡03_tolinkshare2, server: free.6vczxw.xyz, port: 41175, type: ss, cipher: chacha20-ietf-poly1305, password: 4a69317b-1cea-4baa-a25f-00f43aaf6559}
+  - {name: 🇰🇷 韩国01_tolinkshare2, server: free.6vczxw.xyz, port: 41311, type: ss, cipher: chacha20-ietf-poly1305, password: 4a69317b-1cea-4baa-a25f-00f43aaf6559}
+  - {name: 🇰🇷 韩国02_tolinkshare2, server: free.6vczxw.xyz, port: 41313, type: ss, cipher: chacha20-ietf-poly1305, password: 4a69317b-1cea-4baa-a25f-00f43aaf6559}
+  - {name: 🇰🇷 韩国03_tolinkshare2, server: free.6vczxw.xyz, port: 41315, type: ss, cipher: chacha20-ietf-poly1305, password: 4a69317b-1cea-4baa-a25f-00f43aaf6559}
+  - {name: 🇵🇭 菲律宾01_tolinkshare2, server: free.6vczxw.xyz, port: 41341, type: ss, cipher: chacha20-ietf-poly1305, password: 4a69317b-1cea-4baa-a25f-00f43aaf6559}
+  - {name: 🇺🇲 美国01_tolinkshare2, server: free.6vczxw.xyz, port: 41211, type: ss, cipher: chacha20-ietf-poly1305, password: 4a69317b-1cea-4baa-a25f-00f43aaf6559}
+  - {name: 🇺🇲 美国02_tolinkshare2, server: free.6vczxw.xyz, port: 41213, type: ss, cipher: chacha20-ietf-poly1305, password: 4a69317b-1cea-4baa-a25f-00f43aaf6559}
+  - {name: 🇺🇲 美国03_tolinkshare2, server: free.6vczxw.xyz, port: 41215, type: ss, cipher: chacha20-ietf-poly1305, password: 4a69317b-1cea-4baa-a25f-00f43aaf6559}
+  - {name: 🇺🇲 美国04_tolinkshare2, server: free.6vczxw.xyz, port: 41217, type: ss, cipher: chacha20-ietf-poly1305, password: 4a69317b-1cea-4baa-a25f-00f43aaf6559}
+  - {name: 🇺🇲 美国05_tolinkshare2, server: free.6vczxw.xyz, port: 41219, type: ss, cipher: chacha20-ietf-poly1305, password: 4a69317b-1cea-4baa-a25f-00f43aaf6559}
+  - {name: 🇺🇲 美国06_tolinkshare2, server: free.6vczxw.xyz, port: 41221, type: ss, cipher: chacha20-ietf-poly1305, password: 4a69317b-1cea-4baa-a25f-00f43aaf6559}
+  - {name: 🇬🇧 英国01_tolinkshare2, server: free.6vczxw.xyz, port: 41271, type: ss, cipher: chacha20-ietf-poly1305, password: 4a69317b-1cea-4baa-a25f-00f43aaf6559}
+  - {name: 西班牙01_tolinkshare2, server: free.6vczxw.xyz, port: 41741, type: ss, cipher: chacha20-ietf-poly1305, password: 4a69317b-1cea-4baa-a25f-00f43aaf6559}
+  - {name: 🇲🇾 马来西亚01_tolinkshare2, server: free.6vczxw.xyz, port: 41721, type: ss, cipher: chacha20-ietf-poly1305, password: 4a69317b-1cea-4baa-a25f-00f43aaf6559}
+  - {name: 🇹🇭 泰国01_tolinkshare2, server: free.6vczxw.xyz, port: 41731, type: ss, cipher: chacha20-ietf-poly1305, password: 4a69317b-1cea-4baa-a25f-00f43aaf6559}
+  - {name: 🇮🇳 印度01_tolinkshare2, server: free.6vczxw.xyz, port: 41371, type: ss, cipher: chacha20-ietf-poly1305, password: 4a69317b-1cea-4baa-a25f-00f43aaf6559}
+  - {name: 🇦🇺 澳大利亚01_tolinkshare2, server: free.6vczxw.xyz, port: 41411, type: ss, cipher: chacha20-ietf-poly1305, password: 4a69317b-1cea-4baa-a25f-00f43aaf6559}
+  - {name: 🇨🇦 加拿大01_tolinkshare2, server: free.6vczxw.xyz, port: 41441, type: ss, cipher: chacha20-ietf-poly1305, password: 4a69317b-1cea-4baa-a25f-00f43aaf6559}
+  - {name: 🇩🇪 德国01_tolinkshare2, server: free.6vczxw.xyz, port: 41471, type: ss, cipher: chacha20-ietf-poly1305, password: 4a69317b-1cea-4baa-a25f-00f43aaf6559}
+  - {name: 🇷🇺 俄罗斯01_tolinkshare2, server: free.6vczxw.xyz, port: 41511, type: ss, cipher: chacha20-ietf-poly1305, password: 4a69317b-1cea-4baa-a25f-00f43aaf6559}
+  - {name: 🇹🇷 土耳其01_tolinkshare2, server: free.6vczxw.xyz, port: 41571, type: ss, cipher: chacha20-ietf-poly1305, password: 4a69317b-1cea-4baa-a25f-00f43aaf6559}
+  - {name: 乌克兰01_tolinkshare2, server: free.6vczxw.xyz, port: 41611, type: ss, cipher: chacha20-ietf-poly1305, password: 4a69317b-1cea-4baa-a25f-00f43aaf6559}
+  - {name: 🇻🇳 越南01_tolinkshare2, server: free.6vczxw.xyz, port: 41641, type: ss, cipher: chacha20-ietf-poly1305, password: 4a69317b-1cea-4baa-a25f-00f43aaf6559}
+  - {name: 🇧🇷 巴西01_tolinkshare2, server: free.6vczxw.xyz, port: 41671, type: ss, cipher: chacha20-ietf-poly1305, password: 4a69317b-1cea-4baa-a25f-00f43aaf6559}
   - {name: abshare3：4.97 GB, server: free.2weradf.xyz, port: 36141, type: ss, cipher: chacha20-ietf-poly1305, password: fc017771-4891-4c9b-8d92-370f7d19777e}
   - {name: 🇭🇰 香港 01_abshare3, server: free.2weradf.xyz, port: 36141, type: ss, cipher: chacha20-ietf-poly1305, password: fc017771-4891-4c9b-8d92-370f7d19777e}
   - {name: 🇭🇰 香港 02_abshare3, server: free.2weradf.xyz, port: 36143, type: ss, cipher: chacha20-ietf-poly1305, password: fc017771-4891-4c9b-8d92-370f7d19777e}
@@ -416,7 +416,7 @@ proxy-groups:
   - name: 🚀 手动切换
     type: select
     proxies:
-      - tolinkshare2：1.25 GB
+      - tolinkshare2：4.3 GB
       - 🇭🇰 香港01_tolinkshare2
       - 🇭🇰 香港02_tolinkshare2
       - 🇭🇰 香港03_tolinkshare2
@@ -815,7 +815,7 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
-      - tolinkshare2：1.25 GB
+      - tolinkshare2：4.3 GB
       - 🇭🇰 香港01_tolinkshare2
       - 🇭🇰 香港02_tolinkshare2
       - 🇭🇰 香港03_tolinkshare2
@@ -1214,7 +1214,7 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
-      - tolinkshare2：1.25 GB
+      - tolinkshare2：4.3 GB
       - 🇭🇰 香港01_tolinkshare2
       - 🇭🇰 香港02_tolinkshare2
       - 🇭🇰 香港03_tolinkshare2
@@ -1614,7 +1614,7 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
-      - tolinkshare2：1.25 GB
+      - tolinkshare2：4.3 GB
       - 🇭🇰 香港01_tolinkshare2
       - 🇭🇰 香港02_tolinkshare2
       - 🇭🇰 香港03_tolinkshare2
