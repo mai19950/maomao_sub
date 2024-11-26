@@ -38,7 +38,7 @@ proxies:
   - {name: 乌克兰 01_abshare3, server: free.2weradf.xyz, port: 36611, type: ss, cipher: chacha20-ietf-poly1305, password: c3b81d4e-c902-44a6-8e2f-c43286672359}
   - {name: 🇻🇳 越南 01_abshare3, server: free.2weradf.xyz, port: 36641, type: ss, cipher: chacha20-ietf-poly1305, password: c3b81d4e-c902-44a6-8e2f-c43286672359}
   - {name: 🇧🇷 巴西 01_abshare3, server: free.2weradf.xyz, port: 36671, type: ss, cipher: chacha20-ietf-poly1305, password: c3b81d4e-c902-44a6-8e2f-c43286672359}
-  - {name: toshare5：2.04 GB, server: free.6vczxw.xyz, port: 41141, type: ss, cipher: chacha20-ietf-poly1305, password: 5984c6a8-6ada-468a-9157-3ae88dd7ae25}
+  - {name: toshare5：1.92 GB, server: free.6vczxw.xyz, port: 41141, type: ss, cipher: chacha20-ietf-poly1305, password: 5984c6a8-6ada-468a-9157-3ae88dd7ae25}
   - {name: 🇭🇰 香港01_toshare5, server: free.6vczxw.xyz, port: 41141, type: ss, cipher: chacha20-ietf-poly1305, password: 5984c6a8-6ada-468a-9157-3ae88dd7ae25}
   - {name: 🇭🇰 香港02_toshare5, server: free.6vczxw.xyz, port: 41143, type: ss, cipher: chacha20-ietf-poly1305, password: 5984c6a8-6ada-468a-9157-3ae88dd7ae25}
   - {name: 🇭🇰 香港03_toshare5, server: free.6vczxw.xyz, port: 41145, type: ss, cipher: chacha20-ietf-poly1305, password: 5984c6a8-6ada-468a-9157-3ae88dd7ae25}
@@ -109,7 +109,7 @@ proxies:
   - {name: 乌克兰 01_mkshare3, server: free.2apzhfa.xyz, port: 31611, type: ss, cipher: chacha20-ietf-poly1305, password: 7ac8a130-e383-4259-8699-e0c9852ba5f0}
   - {name: 🇻🇳 越南 01_mkshare3, server: free.2apzhfa.xyz, port: 31641, type: ss, cipher: chacha20-ietf-poly1305, password: 7ac8a130-e383-4259-8699-e0c9852ba5f0}
   - {name: 🇧🇷 巴西 01_mkshare3, server: free.2apzhfa.xyz, port: 31671, type: ss, cipher: chacha20-ietf-poly1305, password: 7ac8a130-e383-4259-8699-e0c9852ba5f0}
-  - {name: mksshare：4.68 GB, server: free.2apzhfa.xyz, port: 31141, type: ss, cipher: chacha20-ietf-poly1305, password: 4df629b1-b730-4023-b2b4-9117d5116349}
+  - {name: mksshare：0, server: free.2apzhfa.xyz, port: 31141, type: ss, cipher: chacha20-ietf-poly1305, password: 4df629b1-b730-4023-b2b4-9117d5116349}
   - {name: 🇭🇰 香港 01_mksshare, server: free.2apzhfa.xyz, port: 31141, type: ss, cipher: chacha20-ietf-poly1305, password: 4df629b1-b730-4023-b2b4-9117d5116349}
   - {name: 🇭🇰 香港 02_mksshare, server: free.2apzhfa.xyz, port: 31143, type: ss, cipher: chacha20-ietf-poly1305, password: 4df629b1-b730-4023-b2b4-9117d5116349}
   - {name: 🇭🇰 香港家宽 03_mksshare, server: free.2apzhfa.xyz, port: 31145, type: ss, cipher: chacha20-ietf-poly1305, password: 4df629b1-b730-4023-b2b4-9117d5116349}
@@ -144,7 +144,7 @@ proxies:
   - {name: 乌克兰 01_mksshare, server: free.2apzhfa.xyz, port: 31611, type: ss, cipher: chacha20-ietf-poly1305, password: 4df629b1-b730-4023-b2b4-9117d5116349}
   - {name: 🇻🇳 越南 01_mksshare, server: free.2apzhfa.xyz, port: 31641, type: ss, cipher: chacha20-ietf-poly1305, password: 4df629b1-b730-4023-b2b4-9117d5116349}
   - {name: 🇧🇷 巴西 01_mksshare, server: free.2apzhfa.xyz, port: 31671, type: ss, cipher: chacha20-ietf-poly1305, password: 4df629b1-b730-4023-b2b4-9117d5116349}
-  - {name: abshare：4.17 GB, server: free.2weradf.xyz, port: 36141, type: ss, cipher: chacha20-ietf-poly1305, password: 09bae053-3e10-48ac-a996-38a6d1b76f10}
+  - {name: abshare：1.02 GB, server: free.2weradf.xyz, port: 36141, type: ss, cipher: chacha20-ietf-poly1305, password: 09bae053-3e10-48ac-a996-38a6d1b76f10}
   - {name: 🇭🇰 香港 01_abshare, server: free.2weradf.xyz, port: 36141, type: ss, cipher: chacha20-ietf-poly1305, password: 09bae053-3e10-48ac-a996-38a6d1b76f10}
   - {name: 🇭🇰 香港 02_abshare, server: free.2weradf.xyz, port: 36143, type: ss, cipher: chacha20-ietf-poly1305, password: 09bae053-3e10-48ac-a996-38a6d1b76f10}
   - {name: 🇭🇰 香港住宅IP 03_abshare, server: free.2weradf.xyz, port: 36145, type: ss, cipher: chacha20-ietf-poly1305, password: 09bae053-3e10-48ac-a996-38a6d1b76f10}
@@ -177,7 +177,7 @@ proxies:
   - {name: 乌克兰 01_abshare, server: free.2weradf.xyz, port: 36611, type: ss, cipher: chacha20-ietf-poly1305, password: 09bae053-3e10-48ac-a996-38a6d1b76f10}
   - {name: 🇻🇳 越南 01_abshare, server: free.2weradf.xyz, port: 36641, type: ss, cipher: chacha20-ietf-poly1305, password: 09bae053-3e10-48ac-a996-38a6d1b76f10}
   - {name: 🇧🇷 巴西 01_abshare, server: free.2weradf.xyz, port: 36671, type: ss, cipher: chacha20-ietf-poly1305, password: 09bae053-3e10-48ac-a996-38a6d1b76f10}
-  - {name: tolinkshare2：4.41 GB, server: free.6vczxw.xyz, port: 41141, type: ss, cipher: chacha20-ietf-poly1305, password: b1abc0b9-6ca2-43b0-a5c4-69aac892bb83}
+  - {name: tolinkshare2：4.12 GB, server: free.6vczxw.xyz, port: 41141, type: ss, cipher: chacha20-ietf-poly1305, password: b1abc0b9-6ca2-43b0-a5c4-69aac892bb83}
   - {name: 🇭🇰 香港01_tolinkshare2, server: free.6vczxw.xyz, port: 41141, type: ss, cipher: chacha20-ietf-poly1305, password: b1abc0b9-6ca2-43b0-a5c4-69aac892bb83}
   - {name: 🇭🇰 香港02_tolinkshare2, server: free.6vczxw.xyz, port: 41143, type: ss, cipher: chacha20-ietf-poly1305, password: b1abc0b9-6ca2-43b0-a5c4-69aac892bb83}
   - {name: 🇭🇰 香港03_tolinkshare2, server: free.6vczxw.xyz, port: 41145, type: ss, cipher: chacha20-ietf-poly1305, password: b1abc0b9-6ca2-43b0-a5c4-69aac892bb83}
@@ -449,7 +449,7 @@ proxy-groups:
       - 乌克兰 01_abshare3
       - 🇻🇳 越南 01_abshare3
       - 🇧🇷 巴西 01_abshare3
-      - toshare5：2.04 GB
+      - toshare5：1.92 GB
       - 🇭🇰 香港01_toshare5
       - 🇭🇰 香港02_toshare5
       - 🇭🇰 香港03_toshare5
@@ -520,7 +520,7 @@ proxy-groups:
       - 乌克兰 01_mkshare3
       - 🇻🇳 越南 01_mkshare3
       - 🇧🇷 巴西 01_mkshare3
-      - mksshare：4.68 GB
+      - mksshare：0
       - 🇭🇰 香港 01_mksshare
       - 🇭🇰 香港 02_mksshare
       - 🇭🇰 香港家宽 03_mksshare
@@ -555,7 +555,7 @@ proxy-groups:
       - 乌克兰 01_mksshare
       - 🇻🇳 越南 01_mksshare
       - 🇧🇷 巴西 01_mksshare
-      - abshare：4.17 GB
+      - abshare：1.02 GB
       - 🇭🇰 香港 01_abshare
       - 🇭🇰 香港 02_abshare
       - 🇭🇰 香港住宅IP 03_abshare
@@ -588,7 +588,7 @@ proxy-groups:
       - 乌克兰 01_abshare
       - 🇻🇳 越南 01_abshare
       - 🇧🇷 巴西 01_abshare
-      - tolinkshare2：4.41 GB
+      - tolinkshare2：4.12 GB
       - 🇭🇰 香港01_tolinkshare2
       - 🇭🇰 香港02_tolinkshare2
       - 🇭🇰 香港03_tolinkshare2
@@ -848,7 +848,7 @@ proxy-groups:
       - 乌克兰 01_abshare3
       - 🇻🇳 越南 01_abshare3
       - 🇧🇷 巴西 01_abshare3
-      - toshare5：2.04 GB
+      - toshare5：1.92 GB
       - 🇭🇰 香港01_toshare5
       - 🇭🇰 香港02_toshare5
       - 🇭🇰 香港03_toshare5
@@ -919,7 +919,7 @@ proxy-groups:
       - 乌克兰 01_mkshare3
       - 🇻🇳 越南 01_mkshare3
       - 🇧🇷 巴西 01_mkshare3
-      - mksshare：4.68 GB
+      - mksshare：0
       - 🇭🇰 香港 01_mksshare
       - 🇭🇰 香港 02_mksshare
       - 🇭🇰 香港家宽 03_mksshare
@@ -954,7 +954,7 @@ proxy-groups:
       - 乌克兰 01_mksshare
       - 🇻🇳 越南 01_mksshare
       - 🇧🇷 巴西 01_mksshare
-      - abshare：4.17 GB
+      - abshare：1.02 GB
       - 🇭🇰 香港 01_abshare
       - 🇭🇰 香港 02_abshare
       - 🇭🇰 香港住宅IP 03_abshare
@@ -987,7 +987,7 @@ proxy-groups:
       - 乌克兰 01_abshare
       - 🇻🇳 越南 01_abshare
       - 🇧🇷 巴西 01_abshare
-      - tolinkshare2：4.41 GB
+      - tolinkshare2：4.12 GB
       - 🇭🇰 香港01_tolinkshare2
       - 🇭🇰 香港02_tolinkshare2
       - 🇭🇰 香港03_tolinkshare2
@@ -1247,7 +1247,7 @@ proxy-groups:
       - 乌克兰 01_abshare3
       - 🇻🇳 越南 01_abshare3
       - 🇧🇷 巴西 01_abshare3
-      - toshare5：2.04 GB
+      - toshare5：1.92 GB
       - 🇭🇰 香港01_toshare5
       - 🇭🇰 香港02_toshare5
       - 🇭🇰 香港03_toshare5
@@ -1318,7 +1318,7 @@ proxy-groups:
       - 乌克兰 01_mkshare3
       - 🇻🇳 越南 01_mkshare3
       - 🇧🇷 巴西 01_mkshare3
-      - mksshare：4.68 GB
+      - mksshare：0
       - 🇭🇰 香港 01_mksshare
       - 🇭🇰 香港 02_mksshare
       - 🇭🇰 香港家宽 03_mksshare
@@ -1353,7 +1353,7 @@ proxy-groups:
       - 乌克兰 01_mksshare
       - 🇻🇳 越南 01_mksshare
       - 🇧🇷 巴西 01_mksshare
-      - abshare：4.17 GB
+      - abshare：1.02 GB
       - 🇭🇰 香港 01_abshare
       - 🇭🇰 香港 02_abshare
       - 🇭🇰 香港住宅IP 03_abshare
@@ -1386,7 +1386,7 @@ proxy-groups:
       - 乌克兰 01_abshare
       - 🇻🇳 越南 01_abshare
       - 🇧🇷 巴西 01_abshare
-      - tolinkshare2：4.41 GB
+      - tolinkshare2：4.12 GB
       - 🇭🇰 香港01_tolinkshare2
       - 🇭🇰 香港02_tolinkshare2
       - 🇭🇰 香港03_tolinkshare2
@@ -1647,7 +1647,7 @@ proxy-groups:
       - 乌克兰 01_abshare3
       - 🇻🇳 越南 01_abshare3
       - 🇧🇷 巴西 01_abshare3
-      - toshare5：2.04 GB
+      - toshare5：1.92 GB
       - 🇭🇰 香港01_toshare5
       - 🇭🇰 香港02_toshare5
       - 🇭🇰 香港03_toshare5
@@ -1718,7 +1718,7 @@ proxy-groups:
       - 乌克兰 01_mkshare3
       - 🇻🇳 越南 01_mkshare3
       - 🇧🇷 巴西 01_mkshare3
-      - mksshare：4.68 GB
+      - mksshare：0
       - 🇭🇰 香港 01_mksshare
       - 🇭🇰 香港 02_mksshare
       - 🇭🇰 香港家宽 03_mksshare
@@ -1753,7 +1753,7 @@ proxy-groups:
       - 乌克兰 01_mksshare
       - 🇻🇳 越南 01_mksshare
       - 🇧🇷 巴西 01_mksshare
-      - abshare：4.17 GB
+      - abshare：1.02 GB
       - 🇭🇰 香港 01_abshare
       - 🇭🇰 香港 02_abshare
       - 🇭🇰 香港住宅IP 03_abshare
@@ -1786,7 +1786,7 @@ proxy-groups:
       - 乌克兰 01_abshare
       - 🇻🇳 越南 01_abshare
       - 🇧🇷 巴西 01_abshare
-      - tolinkshare2：4.41 GB
+      - tolinkshare2：4.12 GB
       - 🇭🇰 香港01_tolinkshare2
       - 🇭🇰 香港02_tolinkshare2
       - 🇭🇰 香港03_tolinkshare2
