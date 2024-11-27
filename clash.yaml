@@ -5,143 +5,110 @@ mode: Rule
 log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
-  - {name: mksshare：4.22 GB, server: free.2apzhfa.xyz, port: 31141, type: ss, cipher: chacha20-ietf-poly1305, password: 43154424-672b-43bb-a71d-eed57e9fdf27}
-  - {name: 🇭🇰 香港 01_mksshare, server: free.2apzhfa.xyz, port: 31141, type: ss, cipher: chacha20-ietf-poly1305, password: 43154424-672b-43bb-a71d-eed57e9fdf27}
-  - {name: 🇭🇰 香港 02_mksshare, server: free.2apzhfa.xyz, port: 31143, type: ss, cipher: chacha20-ietf-poly1305, password: 43154424-672b-43bb-a71d-eed57e9fdf27}
-  - {name: 🇭🇰 香港家宽 03_mksshare, server: free.2apzhfa.xyz, port: 31145, type: ss, cipher: chacha20-ietf-poly1305, password: 43154424-672b-43bb-a71d-eed57e9fdf27}
-  - {name: 🇨🇳 台湾 01_mksshare, server: free.2apzhfa.xyz, port: 31241, type: ss, cipher: chacha20-ietf-poly1305, password: 43154424-672b-43bb-a71d-eed57e9fdf27}
-  - {name: 🇨🇳 台湾 02_mksshare, server: free.2apzhfa.xyz, port: 31243, type: ss, cipher: chacha20-ietf-poly1305, password: 43154424-672b-43bb-a71d-eed57e9fdf27}
-  - {name: 🇨🇳 台湾 03_mksshare, server: free.2apzhfa.xyz, port: 31245, type: ss, cipher: chacha20-ietf-poly1305, password: 43154424-672b-43bb-a71d-eed57e9fdf27}
-  - {name: 🇯🇵 日本 01_mksshare, server: free.2apzhfa.xyz, port: 31111, type: ss, cipher: chacha20-ietf-poly1305, password: 43154424-672b-43bb-a71d-eed57e9fdf27}
-  - {name: 🇯🇵 日本 02_mksshare, server: free.2apzhfa.xyz, port: 31113, type: ss, cipher: chacha20-ietf-poly1305, password: 43154424-672b-43bb-a71d-eed57e9fdf27}
-  - {name: 🇯🇵 日本 03_mksshare, server: free.2apzhfa.xyz, port: 31115, type: ss, cipher: chacha20-ietf-poly1305, password: 43154424-672b-43bb-a71d-eed57e9fdf27}
-  - {name: 🇸🇬 新加坡 01_mksshare, server: free.2apzhfa.xyz, port: 31171, type: ss, cipher: chacha20-ietf-poly1305, password: 43154424-672b-43bb-a71d-eed57e9fdf27}
-  - {name: 🇸🇬 新加坡 02_mksshare, server: free.2apzhfa.xyz, port: 31173, type: ss, cipher: chacha20-ietf-poly1305, password: 43154424-672b-43bb-a71d-eed57e9fdf27}
-  - {name: 🇸🇬 新加坡 03_mksshare, server: free.2apzhfa.xyz, port: 31175, type: ss, cipher: chacha20-ietf-poly1305, password: 43154424-672b-43bb-a71d-eed57e9fdf27}
-  - {name: 🇰🇷 韩国 01_mksshare, server: free.2apzhfa.xyz, port: 31311, type: ss, cipher: chacha20-ietf-poly1305, password: 43154424-672b-43bb-a71d-eed57e9fdf27}
-  - {name: 🇰🇷 韩国 02_mksshare, server: free.2apzhfa.xyz, port: 31313, type: ss, cipher: chacha20-ietf-poly1305, password: 43154424-672b-43bb-a71d-eed57e9fdf27}
-  - {name: 🇰🇷 韩国 03_mksshare, server: free.2apzhfa.xyz, port: 31315, type: ss, cipher: chacha20-ietf-poly1305, password: 43154424-672b-43bb-a71d-eed57e9fdf27}
-  - {name: 🇵🇭 菲律宾 01_mksshare, server: free.2apzhfa.xyz, port: 31341, type: ss, cipher: chacha20-ietf-poly1305, password: 43154424-672b-43bb-a71d-eed57e9fdf27}
-  - {name: 🇺🇲 美国 01_mksshare, server: free.2apzhfa.xyz, port: 31211, type: ss, cipher: chacha20-ietf-poly1305, password: 43154424-672b-43bb-a71d-eed57e9fdf27}
-  - {name: 🇺🇲 美国家宽 02_mksshare, server: free.2apzhfa.xyz, port: 31213, type: ss, cipher: chacha20-ietf-poly1305, password: 43154424-672b-43bb-a71d-eed57e9fdf27}
-  - {name: 🇺🇲 美国 03_mksshare, server: free.2apzhfa.xyz, port: 31215, type: ss, cipher: chacha20-ietf-poly1305, password: 43154424-672b-43bb-a71d-eed57e9fdf27}
-  - {name: 🇺🇲 美国 04_mksshare, server: free.2apzhfa.xyz, port: 31217, type: ss, cipher: chacha20-ietf-poly1305, password: 43154424-672b-43bb-a71d-eed57e9fdf27}
-  - {name: 🇺🇲 美国 05_mksshare, server: free.2apzhfa.xyz, port: 31219, type: ss, cipher: chacha20-ietf-poly1305, password: 43154424-672b-43bb-a71d-eed57e9fdf27}
-  - {name: 🇬🇧 英国家宽 01_mksshare, server: free.2apzhfa.xyz, port: 31271, type: ss, cipher: chacha20-ietf-poly1305, password: 43154424-672b-43bb-a71d-eed57e9fdf27}
-  - {name: 西班牙01_mksshare, server: free.2apzhfa.xyz, port: 31741, type: ss, cipher: chacha20-ietf-poly1305, password: 43154424-672b-43bb-a71d-eed57e9fdf27}
-  - {name: 🇲🇾 马来西亚01_mksshare, server: free.2apzhfa.xyz, port: 31721, type: ss, cipher: chacha20-ietf-poly1305, password: 43154424-672b-43bb-a71d-eed57e9fdf27}
-  - {name: 🇹🇭 泰国01 _mksshare, server: free.2apzhfa.xyz, port: 31741, type: ss, cipher: chacha20-ietf-poly1305, password: 43154424-672b-43bb-a71d-eed57e9fdf27}
-  - {name: 🇮🇳 印度 01_mksshare, server: free.2apzhfa.xyz, port: 31371, type: ss, cipher: chacha20-ietf-poly1305, password: 43154424-672b-43bb-a71d-eed57e9fdf27}
-  - {name: 🇦🇺 澳大利亚 01_mksshare, server: free.2apzhfa.xyz, port: 31411, type: ss, cipher: chacha20-ietf-poly1305, password: 43154424-672b-43bb-a71d-eed57e9fdf27}
-  - {name: 🇨🇦 加拿大 01_mksshare, server: free.2apzhfa.xyz, port: 31441, type: ss, cipher: chacha20-ietf-poly1305, password: 43154424-672b-43bb-a71d-eed57e9fdf27}
-  - {name: 🇩🇪 德国 01_mksshare, server: free.2apzhfa.xyz, port: 31471, type: ss, cipher: chacha20-ietf-poly1305, password: 43154424-672b-43bb-a71d-eed57e9fdf27}
-  - {name: 🇷🇺 俄罗斯 01_mksshare, server: free.2apzhfa.xyz, port: 31511, type: ss, cipher: chacha20-ietf-poly1305, password: 43154424-672b-43bb-a71d-eed57e9fdf27}
-  - {name: 🇹🇷 土耳其 01_mksshare, server: free.2apzhfa.xyz, port: 31571, type: ss, cipher: chacha20-ietf-poly1305, password: 43154424-672b-43bb-a71d-eed57e9fdf27}
-  - {name: 乌克兰 01_mksshare, server: free.2apzhfa.xyz, port: 31611, type: ss, cipher: chacha20-ietf-poly1305, password: 43154424-672b-43bb-a71d-eed57e9fdf27}
-  - {name: 🇻🇳 越南 01_mksshare, server: free.2apzhfa.xyz, port: 31641, type: ss, cipher: chacha20-ietf-poly1305, password: 43154424-672b-43bb-a71d-eed57e9fdf27}
-  - {name: 🇧🇷 巴西 01_mksshare, server: free.2apzhfa.xyz, port: 31671, type: ss, cipher: chacha20-ietf-poly1305, password: 43154424-672b-43bb-a71d-eed57e9fdf27}
-  - {name: abshare：3.26 GB, server: free.2weradf.xyz, port: 36141, type: ss, cipher: chacha20-ietf-poly1305, password: a3b6d5c0-109b-4dea-aa31-24e68a026d86}
-  - {name: 🇭🇰 香港 01_abshare, server: free.2weradf.xyz, port: 36141, type: ss, cipher: chacha20-ietf-poly1305, password: a3b6d5c0-109b-4dea-aa31-24e68a026d86}
-  - {name: 🇭🇰 香港 02_abshare, server: free.2weradf.xyz, port: 36143, type: ss, cipher: chacha20-ietf-poly1305, password: a3b6d5c0-109b-4dea-aa31-24e68a026d86}
-  - {name: 🇭🇰 香港住宅IP 03_abshare, server: free.2weradf.xyz, port: 36145, type: ss, cipher: chacha20-ietf-poly1305, password: a3b6d5c0-109b-4dea-aa31-24e68a026d86}
-  - {name: 🇨🇳 台湾 01_abshare, server: free.2weradf.xyz, port: 36241, type: ss, cipher: chacha20-ietf-poly1305, password: a3b6d5c0-109b-4dea-aa31-24e68a026d86}
-  - {name: 🇨🇳 台湾 02_abshare, server: free.2weradf.xyz, port: 36243, type: ss, cipher: chacha20-ietf-poly1305, password: a3b6d5c0-109b-4dea-aa31-24e68a026d86}
-  - {name: 🇨🇳 台湾 03_abshare, server: free.2weradf.xyz, port: 36245, type: ss, cipher: chacha20-ietf-poly1305, password: a3b6d5c0-109b-4dea-aa31-24e68a026d86}
-  - {name: 🇯🇵 日本 01_abshare, server: free.2weradf.xyz, port: 36111, type: ss, cipher: chacha20-ietf-poly1305, password: a3b6d5c0-109b-4dea-aa31-24e68a026d86}
-  - {name: 🇯🇵 日本 02_abshare, server: free.2weradf.xyz, port: 36113, type: ss, cipher: chacha20-ietf-poly1305, password: a3b6d5c0-109b-4dea-aa31-24e68a026d86}
-  - {name: 🇯🇵 日本 03_abshare, server: free.2weradf.xyz, port: 36115, type: ss, cipher: chacha20-ietf-poly1305, password: a3b6d5c0-109b-4dea-aa31-24e68a026d86}
-  - {name: 🇸🇬 新加坡 01_abshare, server: free.2weradf.xyz, port: 36171, type: ss, cipher: chacha20-ietf-poly1305, password: a3b6d5c0-109b-4dea-aa31-24e68a026d86}
-  - {name: 🇸🇬 新加坡 02_abshare, server: free.2weradf.xyz, port: 36173, type: ss, cipher: chacha20-ietf-poly1305, password: a3b6d5c0-109b-4dea-aa31-24e68a026d86}
-  - {name: 🇸🇬 新加坡 03_abshare, server: free.2weradf.xyz, port: 36175, type: ss, cipher: chacha20-ietf-poly1305, password: a3b6d5c0-109b-4dea-aa31-24e68a026d86}
-  - {name: 🇰🇷 韩国 01_abshare, server: free.2weradf.xyz, port: 36311, type: ss, cipher: chacha20-ietf-poly1305, password: a3b6d5c0-109b-4dea-aa31-24e68a026d86}
-  - {name: 🇰🇷 韩国 02_abshare, server: free.2weradf.xyz, port: 36313, type: ss, cipher: chacha20-ietf-poly1305, password: a3b6d5c0-109b-4dea-aa31-24e68a026d86}
-  - {name: 🇰🇷 韩国 03_abshare, server: free.2weradf.xyz, port: 36315, type: ss, cipher: chacha20-ietf-poly1305, password: a3b6d5c0-109b-4dea-aa31-24e68a026d86}
-  - {name: 🇵🇭 菲律宾 01_abshare, server: free.2weradf.xyz, port: 36341, type: ss, cipher: chacha20-ietf-poly1305, password: a3b6d5c0-109b-4dea-aa31-24e68a026d86}
-  - {name: 🇺🇲 美国 01_abshare, server: free.2weradf.xyz, port: 36211, type: ss, cipher: chacha20-ietf-poly1305, password: a3b6d5c0-109b-4dea-aa31-24e68a026d86}
-  - {name: 🇺🇲 美国住宅IP 02_abshare, server: free.2weradf.xyz, port: 36213, type: ss, cipher: chacha20-ietf-poly1305, password: a3b6d5c0-109b-4dea-aa31-24e68a026d86}
-  - {name: 🇺🇲 美国 03_abshare, server: free.2weradf.xyz, port: 36215, type: ss, cipher: chacha20-ietf-poly1305, password: a3b6d5c0-109b-4dea-aa31-24e68a026d86}
-  - {name: 🇬🇧 英国住宅IP 01_abshare, server: free.2weradf.xyz, port: 36271, type: ss, cipher: chacha20-ietf-poly1305, password: a3b6d5c0-109b-4dea-aa31-24e68a026d86}
-  - {name: 🇲🇾 马来西亚 01_abshare, server: free.2weradf.xyz, port: 36721, type: ss, cipher: chacha20-ietf-poly1305, password: a3b6d5c0-109b-4dea-aa31-24e68a026d86}
-  - {name: 西班牙 01_abshare, server: free.2weradf.xyz, port: 36741, type: ss, cipher: chacha20-ietf-poly1305, password: a3b6d5c0-109b-4dea-aa31-24e68a026d86}
-  - {name: 🇹🇭 泰国 01_abshare, server: free.2weradf.xyz, port: 36731, type: ss, cipher: chacha20-ietf-poly1305, password: a3b6d5c0-109b-4dea-aa31-24e68a026d86}
-  - {name: 🇮🇳 印度 01_abshare, server: free.2weradf.xyz, port: 36371, type: ss, cipher: chacha20-ietf-poly1305, password: a3b6d5c0-109b-4dea-aa31-24e68a026d86}
-  - {name: 🇦🇺 澳大利亚 01_abshare, server: free.2weradf.xyz, port: 36411, type: ss, cipher: chacha20-ietf-poly1305, password: a3b6d5c0-109b-4dea-aa31-24e68a026d86}
-  - {name: 🇨🇦 加拿大 01_abshare, server: free.2weradf.xyz, port: 36441, type: ss, cipher: chacha20-ietf-poly1305, password: a3b6d5c0-109b-4dea-aa31-24e68a026d86}
-  - {name: 🇩🇪 德国 01_abshare, server: free.2weradf.xyz, port: 36471, type: ss, cipher: chacha20-ietf-poly1305, password: a3b6d5c0-109b-4dea-aa31-24e68a026d86}
-  - {name: 🇷🇺 俄罗斯 01_abshare, server: free.2weradf.xyz, port: 36511, type: ss, cipher: chacha20-ietf-poly1305, password: a3b6d5c0-109b-4dea-aa31-24e68a026d86}
-  - {name: 🇹🇷 土耳其 01_abshare, server: free.2weradf.xyz, port: 36571, type: ss, cipher: chacha20-ietf-poly1305, password: a3b6d5c0-109b-4dea-aa31-24e68a026d86}
-  - {name: 乌克兰 01_abshare, server: free.2weradf.xyz, port: 36611, type: ss, cipher: chacha20-ietf-poly1305, password: a3b6d5c0-109b-4dea-aa31-24e68a026d86}
-  - {name: 🇻🇳 越南 01_abshare, server: free.2weradf.xyz, port: 36641, type: ss, cipher: chacha20-ietf-poly1305, password: a3b6d5c0-109b-4dea-aa31-24e68a026d86}
-  - {name: 🇧🇷 巴西 01_abshare, server: free.2weradf.xyz, port: 36671, type: ss, cipher: chacha20-ietf-poly1305, password: a3b6d5c0-109b-4dea-aa31-24e68a026d86}
-  - {name: abshare3：4.97 GB, server: free.2weradf.xyz, port: 36141, type: ss, cipher: chacha20-ietf-poly1305, password: fc017771-4891-4c9b-8d92-370f7d19777e}
-  - {name: 🇭🇰 香港 01_abshare3, server: free.2weradf.xyz, port: 36141, type: ss, cipher: chacha20-ietf-poly1305, password: fc017771-4891-4c9b-8d92-370f7d19777e}
-  - {name: 🇭🇰 香港 02_abshare3, server: free.2weradf.xyz, port: 36143, type: ss, cipher: chacha20-ietf-poly1305, password: fc017771-4891-4c9b-8d92-370f7d19777e}
-  - {name: 🇭🇰 香港住宅IP 03_abshare3, server: free.2weradf.xyz, port: 36145, type: ss, cipher: chacha20-ietf-poly1305, password: fc017771-4891-4c9b-8d92-370f7d19777e}
-  - {name: 🇨🇳 台湾 01_abshare3, server: free.2weradf.xyz, port: 36241, type: ss, cipher: chacha20-ietf-poly1305, password: fc017771-4891-4c9b-8d92-370f7d19777e}
-  - {name: 🇨🇳 台湾 02_abshare3, server: free.2weradf.xyz, port: 36243, type: ss, cipher: chacha20-ietf-poly1305, password: fc017771-4891-4c9b-8d92-370f7d19777e}
-  - {name: 🇨🇳 台湾 03_abshare3, server: free.2weradf.xyz, port: 36245, type: ss, cipher: chacha20-ietf-poly1305, password: fc017771-4891-4c9b-8d92-370f7d19777e}
-  - {name: 🇯🇵 日本 01_abshare3, server: free.2weradf.xyz, port: 36111, type: ss, cipher: chacha20-ietf-poly1305, password: fc017771-4891-4c9b-8d92-370f7d19777e}
-  - {name: 🇯🇵 日本 02_abshare3, server: free.2weradf.xyz, port: 36113, type: ss, cipher: chacha20-ietf-poly1305, password: fc017771-4891-4c9b-8d92-370f7d19777e}
-  - {name: 🇯🇵 日本 03_abshare3, server: free.2weradf.xyz, port: 36115, type: ss, cipher: chacha20-ietf-poly1305, password: fc017771-4891-4c9b-8d92-370f7d19777e}
-  - {name: 🇸🇬 新加坡 01_abshare3, server: free.2weradf.xyz, port: 36171, type: ss, cipher: chacha20-ietf-poly1305, password: fc017771-4891-4c9b-8d92-370f7d19777e}
-  - {name: 🇸🇬 新加坡 02_abshare3, server: free.2weradf.xyz, port: 36173, type: ss, cipher: chacha20-ietf-poly1305, password: fc017771-4891-4c9b-8d92-370f7d19777e}
-  - {name: 🇸🇬 新加坡 03_abshare3, server: free.2weradf.xyz, port: 36175, type: ss, cipher: chacha20-ietf-poly1305, password: fc017771-4891-4c9b-8d92-370f7d19777e}
-  - {name: 🇰🇷 韩国 01_abshare3, server: free.2weradf.xyz, port: 36311, type: ss, cipher: chacha20-ietf-poly1305, password: fc017771-4891-4c9b-8d92-370f7d19777e}
-  - {name: 🇰🇷 韩国 02_abshare3, server: free.2weradf.xyz, port: 36313, type: ss, cipher: chacha20-ietf-poly1305, password: fc017771-4891-4c9b-8d92-370f7d19777e}
-  - {name: 🇰🇷 韩国 03_abshare3, server: free.2weradf.xyz, port: 36315, type: ss, cipher: chacha20-ietf-poly1305, password: fc017771-4891-4c9b-8d92-370f7d19777e}
-  - {name: 🇵🇭 菲律宾 01_abshare3, server: free.2weradf.xyz, port: 36341, type: ss, cipher: chacha20-ietf-poly1305, password: fc017771-4891-4c9b-8d92-370f7d19777e}
-  - {name: 🇺🇲 美国 01_abshare3, server: free.2weradf.xyz, port: 36211, type: ss, cipher: chacha20-ietf-poly1305, password: fc017771-4891-4c9b-8d92-370f7d19777e}
-  - {name: 🇺🇲 美国住宅IP 02_abshare3, server: free.2weradf.xyz, port: 36213, type: ss, cipher: chacha20-ietf-poly1305, password: fc017771-4891-4c9b-8d92-370f7d19777e}
-  - {name: 🇺🇲 美国 03_abshare3, server: free.2weradf.xyz, port: 36215, type: ss, cipher: chacha20-ietf-poly1305, password: fc017771-4891-4c9b-8d92-370f7d19777e}
-  - {name: 🇬🇧 英国住宅IP 01_abshare3, server: free.2weradf.xyz, port: 36271, type: ss, cipher: chacha20-ietf-poly1305, password: fc017771-4891-4c9b-8d92-370f7d19777e}
-  - {name: 🇲🇾 马来西亚 01_abshare3, server: free.2weradf.xyz, port: 36721, type: ss, cipher: chacha20-ietf-poly1305, password: fc017771-4891-4c9b-8d92-370f7d19777e}
-  - {name: 西班牙 01_abshare3, server: free.2weradf.xyz, port: 36741, type: ss, cipher: chacha20-ietf-poly1305, password: fc017771-4891-4c9b-8d92-370f7d19777e}
-  - {name: 🇹🇭 泰国 01_abshare3, server: free.2weradf.xyz, port: 36731, type: ss, cipher: chacha20-ietf-poly1305, password: fc017771-4891-4c9b-8d92-370f7d19777e}
-  - {name: 🇮🇳 印度 01_abshare3, server: free.2weradf.xyz, port: 36371, type: ss, cipher: chacha20-ietf-poly1305, password: fc017771-4891-4c9b-8d92-370f7d19777e}
-  - {name: 🇦🇺 澳大利亚 01_abshare3, server: free.2weradf.xyz, port: 36411, type: ss, cipher: chacha20-ietf-poly1305, password: fc017771-4891-4c9b-8d92-370f7d19777e}
-  - {name: 🇨🇦 加拿大 01_abshare3, server: free.2weradf.xyz, port: 36441, type: ss, cipher: chacha20-ietf-poly1305, password: fc017771-4891-4c9b-8d92-370f7d19777e}
-  - {name: 🇩🇪 德国 01_abshare3, server: free.2weradf.xyz, port: 36471, type: ss, cipher: chacha20-ietf-poly1305, password: fc017771-4891-4c9b-8d92-370f7d19777e}
-  - {name: 🇷🇺 俄罗斯 01_abshare3, server: free.2weradf.xyz, port: 36511, type: ss, cipher: chacha20-ietf-poly1305, password: fc017771-4891-4c9b-8d92-370f7d19777e}
-  - {name: 🇹🇷 土耳其 01_abshare3, server: free.2weradf.xyz, port: 36571, type: ss, cipher: chacha20-ietf-poly1305, password: fc017771-4891-4c9b-8d92-370f7d19777e}
-  - {name: 乌克兰 01_abshare3, server: free.2weradf.xyz, port: 36611, type: ss, cipher: chacha20-ietf-poly1305, password: fc017771-4891-4c9b-8d92-370f7d19777e}
-  - {name: 🇻🇳 越南 01_abshare3, server: free.2weradf.xyz, port: 36641, type: ss, cipher: chacha20-ietf-poly1305, password: fc017771-4891-4c9b-8d92-370f7d19777e}
-  - {name: 🇧🇷 巴西 01_abshare3, server: free.2weradf.xyz, port: 36671, type: ss, cipher: chacha20-ietf-poly1305, password: fc017771-4891-4c9b-8d92-370f7d19777e}
-  - {name: tolinkshare2：3.26 GB, server: free.6vczxw.xyz, port: 41141, type: ss, cipher: chacha20-ietf-poly1305, password: 6baab2bd-da0f-44e8-8c86-7dcec5e77602}
-  - {name: 🇭🇰 香港01_tolinkshare2, server: free.6vczxw.xyz, port: 41141, type: ss, cipher: chacha20-ietf-poly1305, password: 6baab2bd-da0f-44e8-8c86-7dcec5e77602}
-  - {name: 🇭🇰 香港02_tolinkshare2, server: free.6vczxw.xyz, port: 41143, type: ss, cipher: chacha20-ietf-poly1305, password: 6baab2bd-da0f-44e8-8c86-7dcec5e77602}
-  - {name: 🇭🇰 香港03_tolinkshare2, server: free.6vczxw.xyz, port: 41145, type: ss, cipher: chacha20-ietf-poly1305, password: 6baab2bd-da0f-44e8-8c86-7dcec5e77602}
-  - {name: 🇨🇳 台湾01_tolinkshare2, server: free.6vczxw.xyz, port: 41241, type: ss, cipher: chacha20-ietf-poly1305, password: 6baab2bd-da0f-44e8-8c86-7dcec5e77602}
-  - {name: 🇨🇳 台湾02_tolinkshare2, server: free.6vczxw.xyz, port: 41243, type: ss, cipher: chacha20-ietf-poly1305, password: 6baab2bd-da0f-44e8-8c86-7dcec5e77602}
-  - {name: 🇨🇳 台湾03_tolinkshare2, server: free.6vczxw.xyz, port: 41245, type: ss, cipher: chacha20-ietf-poly1305, password: 6baab2bd-da0f-44e8-8c86-7dcec5e77602}
-  - {name: 🇯🇵 日本01_tolinkshare2, server: free.6vczxw.xyz, port: 41111, type: ss, cipher: chacha20-ietf-poly1305, password: 6baab2bd-da0f-44e8-8c86-7dcec5e77602}
-  - {name: 🇯🇵 日本02_tolinkshare2, server: free.6vczxw.xyz, port: 41113, type: ss, cipher: chacha20-ietf-poly1305, password: 6baab2bd-da0f-44e8-8c86-7dcec5e77602}
-  - {name: 🇯🇵 日本03_tolinkshare2, server: free.6vczxw.xyz, port: 41115, type: ss, cipher: chacha20-ietf-poly1305, password: 6baab2bd-da0f-44e8-8c86-7dcec5e77602}
-  - {name: 🇸🇬 新加坡01_tolinkshare2, server: free.6vczxw.xyz, port: 41171, type: ss, cipher: chacha20-ietf-poly1305, password: 6baab2bd-da0f-44e8-8c86-7dcec5e77602}
-  - {name: 🇸🇬 新加坡02_tolinkshare2, server: free.6vczxw.xyz, port: 41173, type: ss, cipher: chacha20-ietf-poly1305, password: 6baab2bd-da0f-44e8-8c86-7dcec5e77602}
-  - {name: 🇸🇬 新加坡03_tolinkshare2, server: free.6vczxw.xyz, port: 41175, type: ss, cipher: chacha20-ietf-poly1305, password: 6baab2bd-da0f-44e8-8c86-7dcec5e77602}
-  - {name: 🇰🇷 韩国01_tolinkshare2, server: free.6vczxw.xyz, port: 41311, type: ss, cipher: chacha20-ietf-poly1305, password: 6baab2bd-da0f-44e8-8c86-7dcec5e77602}
-  - {name: 🇰🇷 韩国02_tolinkshare2, server: free.6vczxw.xyz, port: 41313, type: ss, cipher: chacha20-ietf-poly1305, password: 6baab2bd-da0f-44e8-8c86-7dcec5e77602}
-  - {name: 🇰🇷 韩国03_tolinkshare2, server: free.6vczxw.xyz, port: 41315, type: ss, cipher: chacha20-ietf-poly1305, password: 6baab2bd-da0f-44e8-8c86-7dcec5e77602}
-  - {name: 🇵🇭 菲律宾01_tolinkshare2, server: free.6vczxw.xyz, port: 41341, type: ss, cipher: chacha20-ietf-poly1305, password: 6baab2bd-da0f-44e8-8c86-7dcec5e77602}
-  - {name: 🇺🇲 美国01_tolinkshare2, server: free.6vczxw.xyz, port: 41211, type: ss, cipher: chacha20-ietf-poly1305, password: 6baab2bd-da0f-44e8-8c86-7dcec5e77602}
-  - {name: 🇺🇲 美国02_tolinkshare2, server: free.6vczxw.xyz, port: 41213, type: ss, cipher: chacha20-ietf-poly1305, password: 6baab2bd-da0f-44e8-8c86-7dcec5e77602}
-  - {name: 🇺🇲 美国03_tolinkshare2, server: free.6vczxw.xyz, port: 41215, type: ss, cipher: chacha20-ietf-poly1305, password: 6baab2bd-da0f-44e8-8c86-7dcec5e77602}
-  - {name: 🇺🇲 美国04_tolinkshare2, server: free.6vczxw.xyz, port: 41217, type: ss, cipher: chacha20-ietf-poly1305, password: 6baab2bd-da0f-44e8-8c86-7dcec5e77602}
-  - {name: 🇺🇲 美国05_tolinkshare2, server: free.6vczxw.xyz, port: 41219, type: ss, cipher: chacha20-ietf-poly1305, password: 6baab2bd-da0f-44e8-8c86-7dcec5e77602}
-  - {name: 🇺🇲 美国06_tolinkshare2, server: free.6vczxw.xyz, port: 41221, type: ss, cipher: chacha20-ietf-poly1305, password: 6baab2bd-da0f-44e8-8c86-7dcec5e77602}
-  - {name: 🇬🇧 英国01_tolinkshare2, server: free.6vczxw.xyz, port: 41271, type: ss, cipher: chacha20-ietf-poly1305, password: 6baab2bd-da0f-44e8-8c86-7dcec5e77602}
-  - {name: 西班牙01_tolinkshare2, server: free.6vczxw.xyz, port: 41741, type: ss, cipher: chacha20-ietf-poly1305, password: 6baab2bd-da0f-44e8-8c86-7dcec5e77602}
-  - {name: 🇲🇾 马来西亚01_tolinkshare2, server: free.6vczxw.xyz, port: 41721, type: ss, cipher: chacha20-ietf-poly1305, password: 6baab2bd-da0f-44e8-8c86-7dcec5e77602}
-  - {name: 🇹🇭 泰国01_tolinkshare2, server: free.6vczxw.xyz, port: 41731, type: ss, cipher: chacha20-ietf-poly1305, password: 6baab2bd-da0f-44e8-8c86-7dcec5e77602}
-  - {name: 🇮🇳 印度01_tolinkshare2, server: free.6vczxw.xyz, port: 41371, type: ss, cipher: chacha20-ietf-poly1305, password: 6baab2bd-da0f-44e8-8c86-7dcec5e77602}
-  - {name: 🇦🇺 澳大利亚01_tolinkshare2, server: free.6vczxw.xyz, port: 41411, type: ss, cipher: chacha20-ietf-poly1305, password: 6baab2bd-da0f-44e8-8c86-7dcec5e77602}
-  - {name: 🇨🇦 加拿大01_tolinkshare2, server: free.6vczxw.xyz, port: 41441, type: ss, cipher: chacha20-ietf-poly1305, password: 6baab2bd-da0f-44e8-8c86-7dcec5e77602}
-  - {name: 🇩🇪 德国01_tolinkshare2, server: free.6vczxw.xyz, port: 41471, type: ss, cipher: chacha20-ietf-poly1305, password: 6baab2bd-da0f-44e8-8c86-7dcec5e77602}
-  - {name: 🇷🇺 俄罗斯01_tolinkshare2, server: free.6vczxw.xyz, port: 41511, type: ss, cipher: chacha20-ietf-poly1305, password: 6baab2bd-da0f-44e8-8c86-7dcec5e77602}
-  - {name: 🇹🇷 土耳其01_tolinkshare2, server: free.6vczxw.xyz, port: 41571, type: ss, cipher: chacha20-ietf-poly1305, password: 6baab2bd-da0f-44e8-8c86-7dcec5e77602}
-  - {name: 乌克兰01_tolinkshare2, server: free.6vczxw.xyz, port: 41611, type: ss, cipher: chacha20-ietf-poly1305, password: 6baab2bd-da0f-44e8-8c86-7dcec5e77602}
-  - {name: 🇻🇳 越南01_tolinkshare2, server: free.6vczxw.xyz, port: 41641, type: ss, cipher: chacha20-ietf-poly1305, password: 6baab2bd-da0f-44e8-8c86-7dcec5e77602}
-  - {name: 🇧🇷 巴西01_tolinkshare2, server: free.6vczxw.xyz, port: 41671, type: ss, cipher: chacha20-ietf-poly1305, password: 6baab2bd-da0f-44e8-8c86-7dcec5e77602}
+  - {name: mksshare：2.88 GB, server: free.2apzhfa.xyz, port: 31141, type: ss, cipher: chacha20-ietf-poly1305, password: e0a31bb0-2dec-49a6-b96a-6753f1dc051b}
+  - {name: 🇭🇰 香港 01_mksshare, server: free.2apzhfa.xyz, port: 31141, type: ss, cipher: chacha20-ietf-poly1305, password: e0a31bb0-2dec-49a6-b96a-6753f1dc051b}
+  - {name: 🇭🇰 香港 02_mksshare, server: free.2apzhfa.xyz, port: 31143, type: ss, cipher: chacha20-ietf-poly1305, password: e0a31bb0-2dec-49a6-b96a-6753f1dc051b}
+  - {name: 🇭🇰 香港家宽 03_mksshare, server: free.2apzhfa.xyz, port: 31145, type: ss, cipher: chacha20-ietf-poly1305, password: e0a31bb0-2dec-49a6-b96a-6753f1dc051b}
+  - {name: 🇨🇳 台湾 01_mksshare, server: free.2apzhfa.xyz, port: 31241, type: ss, cipher: chacha20-ietf-poly1305, password: e0a31bb0-2dec-49a6-b96a-6753f1dc051b}
+  - {name: 🇨🇳 台湾 02_mksshare, server: free.2apzhfa.xyz, port: 31243, type: ss, cipher: chacha20-ietf-poly1305, password: e0a31bb0-2dec-49a6-b96a-6753f1dc051b}
+  - {name: 🇨🇳 台湾 03_mksshare, server: free.2apzhfa.xyz, port: 31245, type: ss, cipher: chacha20-ietf-poly1305, password: e0a31bb0-2dec-49a6-b96a-6753f1dc051b}
+  - {name: 🇯🇵 日本 01_mksshare, server: free.2apzhfa.xyz, port: 31111, type: ss, cipher: chacha20-ietf-poly1305, password: e0a31bb0-2dec-49a6-b96a-6753f1dc051b}
+  - {name: 🇯🇵 日本 02_mksshare, server: free.2apzhfa.xyz, port: 31113, type: ss, cipher: chacha20-ietf-poly1305, password: e0a31bb0-2dec-49a6-b96a-6753f1dc051b}
+  - {name: 🇯🇵 日本 03_mksshare, server: free.2apzhfa.xyz, port: 31115, type: ss, cipher: chacha20-ietf-poly1305, password: e0a31bb0-2dec-49a6-b96a-6753f1dc051b}
+  - {name: 🇸🇬 新加坡 01_mksshare, server: free.2apzhfa.xyz, port: 31171, type: ss, cipher: chacha20-ietf-poly1305, password: e0a31bb0-2dec-49a6-b96a-6753f1dc051b}
+  - {name: 🇸🇬 新加坡 02_mksshare, server: free.2apzhfa.xyz, port: 31173, type: ss, cipher: chacha20-ietf-poly1305, password: e0a31bb0-2dec-49a6-b96a-6753f1dc051b}
+  - {name: 🇸🇬 新加坡 03_mksshare, server: free.2apzhfa.xyz, port: 31175, type: ss, cipher: chacha20-ietf-poly1305, password: e0a31bb0-2dec-49a6-b96a-6753f1dc051b}
+  - {name: 🇰🇷 韩国 01_mksshare, server: free.2apzhfa.xyz, port: 31311, type: ss, cipher: chacha20-ietf-poly1305, password: e0a31bb0-2dec-49a6-b96a-6753f1dc051b}
+  - {name: 🇰🇷 韩国 02_mksshare, server: free.2apzhfa.xyz, port: 31313, type: ss, cipher: chacha20-ietf-poly1305, password: e0a31bb0-2dec-49a6-b96a-6753f1dc051b}
+  - {name: 🇰🇷 韩国 03_mksshare, server: free.2apzhfa.xyz, port: 31315, type: ss, cipher: chacha20-ietf-poly1305, password: e0a31bb0-2dec-49a6-b96a-6753f1dc051b}
+  - {name: 🇵🇭 菲律宾 01_mksshare, server: free.2apzhfa.xyz, port: 31341, type: ss, cipher: chacha20-ietf-poly1305, password: e0a31bb0-2dec-49a6-b96a-6753f1dc051b}
+  - {name: 🇺🇲 美国 01_mksshare, server: free.2apzhfa.xyz, port: 31211, type: ss, cipher: chacha20-ietf-poly1305, password: e0a31bb0-2dec-49a6-b96a-6753f1dc051b}
+  - {name: 🇺🇲 美国家宽 02_mksshare, server: free.2apzhfa.xyz, port: 31213, type: ss, cipher: chacha20-ietf-poly1305, password: e0a31bb0-2dec-49a6-b96a-6753f1dc051b}
+  - {name: 🇺🇲 美国 03_mksshare, server: free.2apzhfa.xyz, port: 31215, type: ss, cipher: chacha20-ietf-poly1305, password: e0a31bb0-2dec-49a6-b96a-6753f1dc051b}
+  - {name: 🇺🇲 美国 04_mksshare, server: free.2apzhfa.xyz, port: 31217, type: ss, cipher: chacha20-ietf-poly1305, password: e0a31bb0-2dec-49a6-b96a-6753f1dc051b}
+  - {name: 🇺🇲 美国 05_mksshare, server: free.2apzhfa.xyz, port: 31219, type: ss, cipher: chacha20-ietf-poly1305, password: e0a31bb0-2dec-49a6-b96a-6753f1dc051b}
+  - {name: 🇬🇧 英国家宽 01_mksshare, server: free.2apzhfa.xyz, port: 31271, type: ss, cipher: chacha20-ietf-poly1305, password: e0a31bb0-2dec-49a6-b96a-6753f1dc051b}
+  - {name: 西班牙01_mksshare, server: free.2apzhfa.xyz, port: 31741, type: ss, cipher: chacha20-ietf-poly1305, password: e0a31bb0-2dec-49a6-b96a-6753f1dc051b}
+  - {name: 🇲🇾 马来西亚01_mksshare, server: free.2apzhfa.xyz, port: 31721, type: ss, cipher: chacha20-ietf-poly1305, password: e0a31bb0-2dec-49a6-b96a-6753f1dc051b}
+  - {name: 🇹🇭 泰国01 _mksshare, server: free.2apzhfa.xyz, port: 31741, type: ss, cipher: chacha20-ietf-poly1305, password: e0a31bb0-2dec-49a6-b96a-6753f1dc051b}
+  - {name: 🇮🇳 印度 01_mksshare, server: free.2apzhfa.xyz, port: 31371, type: ss, cipher: chacha20-ietf-poly1305, password: e0a31bb0-2dec-49a6-b96a-6753f1dc051b}
+  - {name: 🇦🇺 澳大利亚 01_mksshare, server: free.2apzhfa.xyz, port: 31411, type: ss, cipher: chacha20-ietf-poly1305, password: e0a31bb0-2dec-49a6-b96a-6753f1dc051b}
+  - {name: 🇨🇦 加拿大 01_mksshare, server: free.2apzhfa.xyz, port: 31441, type: ss, cipher: chacha20-ietf-poly1305, password: e0a31bb0-2dec-49a6-b96a-6753f1dc051b}
+  - {name: 🇩🇪 德国 01_mksshare, server: free.2apzhfa.xyz, port: 31471, type: ss, cipher: chacha20-ietf-poly1305, password: e0a31bb0-2dec-49a6-b96a-6753f1dc051b}
+  - {name: 🇷🇺 俄罗斯 01_mksshare, server: free.2apzhfa.xyz, port: 31511, type: ss, cipher: chacha20-ietf-poly1305, password: e0a31bb0-2dec-49a6-b96a-6753f1dc051b}
+  - {name: 🇹🇷 土耳其 01_mksshare, server: free.2apzhfa.xyz, port: 31571, type: ss, cipher: chacha20-ietf-poly1305, password: e0a31bb0-2dec-49a6-b96a-6753f1dc051b}
+  - {name: 乌克兰 01_mksshare, server: free.2apzhfa.xyz, port: 31611, type: ss, cipher: chacha20-ietf-poly1305, password: e0a31bb0-2dec-49a6-b96a-6753f1dc051b}
+  - {name: 🇻🇳 越南 01_mksshare, server: free.2apzhfa.xyz, port: 31641, type: ss, cipher: chacha20-ietf-poly1305, password: e0a31bb0-2dec-49a6-b96a-6753f1dc051b}
+  - {name: 🇧🇷 巴西 01_mksshare, server: free.2apzhfa.xyz, port: 31671, type: ss, cipher: chacha20-ietf-poly1305, password: e0a31bb0-2dec-49a6-b96a-6753f1dc051b}
+  - {name: abshare：4.55 GB, server: free.2weradf.xyz, port: 36141, type: ss, cipher: chacha20-ietf-poly1305, password: 8a233968-91b6-4830-8ba7-4e4b2ae69005}
+  - {name: 🇭🇰 香港 01_abshare, server: free.2weradf.xyz, port: 36141, type: ss, cipher: chacha20-ietf-poly1305, password: 8a233968-91b6-4830-8ba7-4e4b2ae69005}
+  - {name: 🇭🇰 香港 02_abshare, server: free.2weradf.xyz, port: 36143, type: ss, cipher: chacha20-ietf-poly1305, password: 8a233968-91b6-4830-8ba7-4e4b2ae69005}
+  - {name: 🇭🇰 香港住宅IP 03_abshare, server: free.2weradf.xyz, port: 36145, type: ss, cipher: chacha20-ietf-poly1305, password: 8a233968-91b6-4830-8ba7-4e4b2ae69005}
+  - {name: 🇨🇳 台湾 01_abshare, server: free.2weradf.xyz, port: 36241, type: ss, cipher: chacha20-ietf-poly1305, password: 8a233968-91b6-4830-8ba7-4e4b2ae69005}
+  - {name: 🇨🇳 台湾 02_abshare, server: free.2weradf.xyz, port: 36243, type: ss, cipher: chacha20-ietf-poly1305, password: 8a233968-91b6-4830-8ba7-4e4b2ae69005}
+  - {name: 🇨🇳 台湾 03_abshare, server: free.2weradf.xyz, port: 36245, type: ss, cipher: chacha20-ietf-poly1305, password: 8a233968-91b6-4830-8ba7-4e4b2ae69005}
+  - {name: 🇯🇵 日本 01_abshare, server: free.2weradf.xyz, port: 36111, type: ss, cipher: chacha20-ietf-poly1305, password: 8a233968-91b6-4830-8ba7-4e4b2ae69005}
+  - {name: 🇯🇵 日本 02_abshare, server: free.2weradf.xyz, port: 36113, type: ss, cipher: chacha20-ietf-poly1305, password: 8a233968-91b6-4830-8ba7-4e4b2ae69005}
+  - {name: 🇯🇵 日本 03_abshare, server: free.2weradf.xyz, port: 36115, type: ss, cipher: chacha20-ietf-poly1305, password: 8a233968-91b6-4830-8ba7-4e4b2ae69005}
+  - {name: 🇸🇬 新加坡 01_abshare, server: free.2weradf.xyz, port: 36171, type: ss, cipher: chacha20-ietf-poly1305, password: 8a233968-91b6-4830-8ba7-4e4b2ae69005}
+  - {name: 🇸🇬 新加坡 02_abshare, server: free.2weradf.xyz, port: 36173, type: ss, cipher: chacha20-ietf-poly1305, password: 8a233968-91b6-4830-8ba7-4e4b2ae69005}
+  - {name: 🇸🇬 新加坡 03_abshare, server: free.2weradf.xyz, port: 36175, type: ss, cipher: chacha20-ietf-poly1305, password: 8a233968-91b6-4830-8ba7-4e4b2ae69005}
+  - {name: 🇰🇷 韩国 01_abshare, server: free.2weradf.xyz, port: 36311, type: ss, cipher: chacha20-ietf-poly1305, password: 8a233968-91b6-4830-8ba7-4e4b2ae69005}
+  - {name: 🇰🇷 韩国 02_abshare, server: free.2weradf.xyz, port: 36313, type: ss, cipher: chacha20-ietf-poly1305, password: 8a233968-91b6-4830-8ba7-4e4b2ae69005}
+  - {name: 🇰🇷 韩国 03_abshare, server: free.2weradf.xyz, port: 36315, type: ss, cipher: chacha20-ietf-poly1305, password: 8a233968-91b6-4830-8ba7-4e4b2ae69005}
+  - {name: 🇵🇭 菲律宾 01_abshare, server: free.2weradf.xyz, port: 36341, type: ss, cipher: chacha20-ietf-poly1305, password: 8a233968-91b6-4830-8ba7-4e4b2ae69005}
+  - {name: 🇺🇲 美国 01_abshare, server: free.2weradf.xyz, port: 36211, type: ss, cipher: chacha20-ietf-poly1305, password: 8a233968-91b6-4830-8ba7-4e4b2ae69005}
+  - {name: 🇺🇲 美国住宅IP 02_abshare, server: free.2weradf.xyz, port: 36213, type: ss, cipher: chacha20-ietf-poly1305, password: 8a233968-91b6-4830-8ba7-4e4b2ae69005}
+  - {name: 🇺🇲 美国 03_abshare, server: free.2weradf.xyz, port: 36215, type: ss, cipher: chacha20-ietf-poly1305, password: 8a233968-91b6-4830-8ba7-4e4b2ae69005}
+  - {name: 🇬🇧 英国住宅IP 01_abshare, server: free.2weradf.xyz, port: 36271, type: ss, cipher: chacha20-ietf-poly1305, password: 8a233968-91b6-4830-8ba7-4e4b2ae69005}
+  - {name: 🇲🇾 马来西亚 01_abshare, server: free.2weradf.xyz, port: 36721, type: ss, cipher: chacha20-ietf-poly1305, password: 8a233968-91b6-4830-8ba7-4e4b2ae69005}
+  - {name: 西班牙 01_abshare, server: free.2weradf.xyz, port: 36741, type: ss, cipher: chacha20-ietf-poly1305, password: 8a233968-91b6-4830-8ba7-4e4b2ae69005}
+  - {name: 🇹🇭 泰国 01_abshare, server: free.2weradf.xyz, port: 36731, type: ss, cipher: chacha20-ietf-poly1305, password: 8a233968-91b6-4830-8ba7-4e4b2ae69005}
+  - {name: 🇮🇳 印度 01_abshare, server: free.2weradf.xyz, port: 36371, type: ss, cipher: chacha20-ietf-poly1305, password: 8a233968-91b6-4830-8ba7-4e4b2ae69005}
+  - {name: 🇦🇺 澳大利亚 01_abshare, server: free.2weradf.xyz, port: 36411, type: ss, cipher: chacha20-ietf-poly1305, password: 8a233968-91b6-4830-8ba7-4e4b2ae69005}
+  - {name: 🇨🇦 加拿大 01_abshare, server: free.2weradf.xyz, port: 36441, type: ss, cipher: chacha20-ietf-poly1305, password: 8a233968-91b6-4830-8ba7-4e4b2ae69005}
+  - {name: 🇩🇪 德国 01_abshare, server: free.2weradf.xyz, port: 36471, type: ss, cipher: chacha20-ietf-poly1305, password: 8a233968-91b6-4830-8ba7-4e4b2ae69005}
+  - {name: 🇷🇺 俄罗斯 01_abshare, server: free.2weradf.xyz, port: 36511, type: ss, cipher: chacha20-ietf-poly1305, password: 8a233968-91b6-4830-8ba7-4e4b2ae69005}
+  - {name: 🇹🇷 土耳其 01_abshare, server: free.2weradf.xyz, port: 36571, type: ss, cipher: chacha20-ietf-poly1305, password: 8a233968-91b6-4830-8ba7-4e4b2ae69005}
+  - {name: 乌克兰 01_abshare, server: free.2weradf.xyz, port: 36611, type: ss, cipher: chacha20-ietf-poly1305, password: 8a233968-91b6-4830-8ba7-4e4b2ae69005}
+  - {name: 🇻🇳 越南 01_abshare, server: free.2weradf.xyz, port: 36641, type: ss, cipher: chacha20-ietf-poly1305, password: 8a233968-91b6-4830-8ba7-4e4b2ae69005}
+  - {name: 🇧🇷 巴西 01_abshare, server: free.2weradf.xyz, port: 36671, type: ss, cipher: chacha20-ietf-poly1305, password: 8a233968-91b6-4830-8ba7-4e4b2ae69005}
+  - {name: tolinkshare2：4.66 GB, server: free.6vczxw.xyz, port: 41141, type: ss, cipher: chacha20-ietf-poly1305, password: bc11a83d-8a5e-4383-82db-40d98c47b2eb}
+  - {name: 🇭🇰 香港01_tolinkshare2, server: free.6vczxw.xyz, port: 41141, type: ss, cipher: chacha20-ietf-poly1305, password: bc11a83d-8a5e-4383-82db-40d98c47b2eb}
+  - {name: 🇭🇰 香港02_tolinkshare2, server: free.6vczxw.xyz, port: 41143, type: ss, cipher: chacha20-ietf-poly1305, password: bc11a83d-8a5e-4383-82db-40d98c47b2eb}
+  - {name: 🇭🇰 香港03_tolinkshare2, server: free.6vczxw.xyz, port: 41145, type: ss, cipher: chacha20-ietf-poly1305, password: bc11a83d-8a5e-4383-82db-40d98c47b2eb}
+  - {name: 🇨🇳 台湾01_tolinkshare2, server: free.6vczxw.xyz, port: 41241, type: ss, cipher: chacha20-ietf-poly1305, password: bc11a83d-8a5e-4383-82db-40d98c47b2eb}
+  - {name: 🇨🇳 台湾02_tolinkshare2, server: free.6vczxw.xyz, port: 41243, type: ss, cipher: chacha20-ietf-poly1305, password: bc11a83d-8a5e-4383-82db-40d98c47b2eb}
+  - {name: 🇨🇳 台湾03_tolinkshare2, server: free.6vczxw.xyz, port: 41245, type: ss, cipher: chacha20-ietf-poly1305, password: bc11a83d-8a5e-4383-82db-40d98c47b2eb}
+  - {name: 🇯🇵 日本01_tolinkshare2, server: free.6vczxw.xyz, port: 41111, type: ss, cipher: chacha20-ietf-poly1305, password: bc11a83d-8a5e-4383-82db-40d98c47b2eb}
+  - {name: 🇯🇵 日本02_tolinkshare2, server: free.6vczxw.xyz, port: 41113, type: ss, cipher: chacha20-ietf-poly1305, password: bc11a83d-8a5e-4383-82db-40d98c47b2eb}
+  - {name: 🇯🇵 日本03_tolinkshare2, server: free.6vczxw.xyz, port: 41115, type: ss, cipher: chacha20-ietf-poly1305, password: bc11a83d-8a5e-4383-82db-40d98c47b2eb}
+  - {name: 🇸🇬 新加坡01_tolinkshare2, server: free.6vczxw.xyz, port: 41171, type: ss, cipher: chacha20-ietf-poly1305, password: bc11a83d-8a5e-4383-82db-40d98c47b2eb}
+  - {name: 🇸🇬 新加坡02_tolinkshare2, server: free.6vczxw.xyz, port: 41173, type: ss, cipher: chacha20-ietf-poly1305, password: bc11a83d-8a5e-4383-82db-40d98c47b2eb}
+  - {name: 🇸🇬 新加坡03_tolinkshare2, server: free.6vczxw.xyz, port: 41175, type: ss, cipher: chacha20-ietf-poly1305, password: bc11a83d-8a5e-4383-82db-40d98c47b2eb}
+  - {name: 🇰🇷 韩国01_tolinkshare2, server: free.6vczxw.xyz, port: 41311, type: ss, cipher: chacha20-ietf-poly1305, password: bc11a83d-8a5e-4383-82db-40d98c47b2eb}
+  - {name: 🇰🇷 韩国02_tolinkshare2, server: free.6vczxw.xyz, port: 41313, type: ss, cipher: chacha20-ietf-poly1305, password: bc11a83d-8a5e-4383-82db-40d98c47b2eb}
+  - {name: 🇰🇷 韩国03_tolinkshare2, server: free.6vczxw.xyz, port: 41315, type: ss, cipher: chacha20-ietf-poly1305, password: bc11a83d-8a5e-4383-82db-40d98c47b2eb}
+  - {name: 🇵🇭 菲律宾01_tolinkshare2, server: free.6vczxw.xyz, port: 41341, type: ss, cipher: chacha20-ietf-poly1305, password: bc11a83d-8a5e-4383-82db-40d98c47b2eb}
+  - {name: 🇺🇲 美国01_tolinkshare2, server: free.6vczxw.xyz, port: 41211, type: ss, cipher: chacha20-ietf-poly1305, password: bc11a83d-8a5e-4383-82db-40d98c47b2eb}
+  - {name: 🇺🇲 美国02_tolinkshare2, server: free.6vczxw.xyz, port: 41213, type: ss, cipher: chacha20-ietf-poly1305, password: bc11a83d-8a5e-4383-82db-40d98c47b2eb}
+  - {name: 🇺🇲 美国03_tolinkshare2, server: free.6vczxw.xyz, port: 41215, type: ss, cipher: chacha20-ietf-poly1305, password: bc11a83d-8a5e-4383-82db-40d98c47b2eb}
+  - {name: 🇺🇲 美国04_tolinkshare2, server: free.6vczxw.xyz, port: 41217, type: ss, cipher: chacha20-ietf-poly1305, password: bc11a83d-8a5e-4383-82db-40d98c47b2eb}
+  - {name: 🇺🇲 美国05_tolinkshare2, server: free.6vczxw.xyz, port: 41219, type: ss, cipher: chacha20-ietf-poly1305, password: bc11a83d-8a5e-4383-82db-40d98c47b2eb}
+  - {name: 🇺🇲 美国06_tolinkshare2, server: free.6vczxw.xyz, port: 41221, type: ss, cipher: chacha20-ietf-poly1305, password: bc11a83d-8a5e-4383-82db-40d98c47b2eb}
+  - {name: 🇬🇧 英国01_tolinkshare2, server: free.6vczxw.xyz, port: 41271, type: ss, cipher: chacha20-ietf-poly1305, password: bc11a83d-8a5e-4383-82db-40d98c47b2eb}
+  - {name: 西班牙01_tolinkshare2, server: free.6vczxw.xyz, port: 41741, type: ss, cipher: chacha20-ietf-poly1305, password: bc11a83d-8a5e-4383-82db-40d98c47b2eb}
+  - {name: 🇲🇾 马来西亚01_tolinkshare2, server: free.6vczxw.xyz, port: 41721, type: ss, cipher: chacha20-ietf-poly1305, password: bc11a83d-8a5e-4383-82db-40d98c47b2eb}
+  - {name: 🇹🇭 泰国01_tolinkshare2, server: free.6vczxw.xyz, port: 41731, type: ss, cipher: chacha20-ietf-poly1305, password: bc11a83d-8a5e-4383-82db-40d98c47b2eb}
+  - {name: 🇮🇳 印度01_tolinkshare2, server: free.6vczxw.xyz, port: 41371, type: ss, cipher: chacha20-ietf-poly1305, password: bc11a83d-8a5e-4383-82db-40d98c47b2eb}
+  - {name: 🇦🇺 澳大利亚01_tolinkshare2, server: free.6vczxw.xyz, port: 41411, type: ss, cipher: chacha20-ietf-poly1305, password: bc11a83d-8a5e-4383-82db-40d98c47b2eb}
+  - {name: 🇨🇦 加拿大01_tolinkshare2, server: free.6vczxw.xyz, port: 41441, type: ss, cipher: chacha20-ietf-poly1305, password: bc11a83d-8a5e-4383-82db-40d98c47b2eb}
+  - {name: 🇩🇪 德国01_tolinkshare2, server: free.6vczxw.xyz, port: 41471, type: ss, cipher: chacha20-ietf-poly1305, password: bc11a83d-8a5e-4383-82db-40d98c47b2eb}
+  - {name: 🇷🇺 俄罗斯01_tolinkshare2, server: free.6vczxw.xyz, port: 41511, type: ss, cipher: chacha20-ietf-poly1305, password: bc11a83d-8a5e-4383-82db-40d98c47b2eb}
+  - {name: 🇹🇷 土耳其01_tolinkshare2, server: free.6vczxw.xyz, port: 41571, type: ss, cipher: chacha20-ietf-poly1305, password: bc11a83d-8a5e-4383-82db-40d98c47b2eb}
+  - {name: 乌克兰01_tolinkshare2, server: free.6vczxw.xyz, port: 41611, type: ss, cipher: chacha20-ietf-poly1305, password: bc11a83d-8a5e-4383-82db-40d98c47b2eb}
+  - {name: 🇻🇳 越南01_tolinkshare2, server: free.6vczxw.xyz, port: 41641, type: ss, cipher: chacha20-ietf-poly1305, password: bc11a83d-8a5e-4383-82db-40d98c47b2eb}
+  - {name: 🇧🇷 巴西01_tolinkshare2, server: free.6vczxw.xyz, port: 41671, type: ss, cipher: chacha20-ietf-poly1305, password: bc11a83d-8a5e-4383-82db-40d98c47b2eb}
   - {name: toshare5：4.94 GB, server: free.6vczxw.xyz, port: 41141, type: ss, cipher: chacha20-ietf-poly1305, password: 5f1e81c3-9540-4be6-bc76-2fadb0d82459}
   - {name: 🇭🇰 香港01_toshare5, server: free.6vczxw.xyz, port: 41141, type: ss, cipher: chacha20-ietf-poly1305, password: 5f1e81c3-9540-4be6-bc76-2fadb0d82459}
   - {name: 🇭🇰 香港02_toshare5, server: free.6vczxw.xyz, port: 41143, type: ss, cipher: chacha20-ietf-poly1305, password: 5f1e81c3-9540-4be6-bc76-2fadb0d82459}
@@ -213,6 +180,39 @@ proxies:
   - {name: 乌克兰 01_mkshare3, server: free.2apzhfa.xyz, port: 31611, type: ss, cipher: chacha20-ietf-poly1305, password: 1862e564-24f0-431e-92d1-2958546f4fb3}
   - {name: 🇻🇳 越南 01_mkshare3, server: free.2apzhfa.xyz, port: 31641, type: ss, cipher: chacha20-ietf-poly1305, password: 1862e564-24f0-431e-92d1-2958546f4fb3}
   - {name: 🇧🇷 巴西 01_mkshare3, server: free.2apzhfa.xyz, port: 31671, type: ss, cipher: chacha20-ietf-poly1305, password: 1862e564-24f0-431e-92d1-2958546f4fb3}
+  - {name: abshare3：4.97 GB, server: free.2weradf.xyz, port: 36141, type: ss, cipher: chacha20-ietf-poly1305, password: fc017771-4891-4c9b-8d92-370f7d19777e}
+  - {name: 🇭🇰 香港 01_abshare3, server: free.2weradf.xyz, port: 36141, type: ss, cipher: chacha20-ietf-poly1305, password: fc017771-4891-4c9b-8d92-370f7d19777e}
+  - {name: 🇭🇰 香港 02_abshare3, server: free.2weradf.xyz, port: 36143, type: ss, cipher: chacha20-ietf-poly1305, password: fc017771-4891-4c9b-8d92-370f7d19777e}
+  - {name: 🇭🇰 香港住宅IP 03_abshare3, server: free.2weradf.xyz, port: 36145, type: ss, cipher: chacha20-ietf-poly1305, password: fc017771-4891-4c9b-8d92-370f7d19777e}
+  - {name: 🇨🇳 台湾 01_abshare3, server: free.2weradf.xyz, port: 36241, type: ss, cipher: chacha20-ietf-poly1305, password: fc017771-4891-4c9b-8d92-370f7d19777e}
+  - {name: 🇨🇳 台湾 02_abshare3, server: free.2weradf.xyz, port: 36243, type: ss, cipher: chacha20-ietf-poly1305, password: fc017771-4891-4c9b-8d92-370f7d19777e}
+  - {name: 🇨🇳 台湾 03_abshare3, server: free.2weradf.xyz, port: 36245, type: ss, cipher: chacha20-ietf-poly1305, password: fc017771-4891-4c9b-8d92-370f7d19777e}
+  - {name: 🇯🇵 日本 01_abshare3, server: free.2weradf.xyz, port: 36111, type: ss, cipher: chacha20-ietf-poly1305, password: fc017771-4891-4c9b-8d92-370f7d19777e}
+  - {name: 🇯🇵 日本 02_abshare3, server: free.2weradf.xyz, port: 36113, type: ss, cipher: chacha20-ietf-poly1305, password: fc017771-4891-4c9b-8d92-370f7d19777e}
+  - {name: 🇯🇵 日本 03_abshare3, server: free.2weradf.xyz, port: 36115, type: ss, cipher: chacha20-ietf-poly1305, password: fc017771-4891-4c9b-8d92-370f7d19777e}
+  - {name: 🇸🇬 新加坡 01_abshare3, server: free.2weradf.xyz, port: 36171, type: ss, cipher: chacha20-ietf-poly1305, password: fc017771-4891-4c9b-8d92-370f7d19777e}
+  - {name: 🇸🇬 新加坡 02_abshare3, server: free.2weradf.xyz, port: 36173, type: ss, cipher: chacha20-ietf-poly1305, password: fc017771-4891-4c9b-8d92-370f7d19777e}
+  - {name: 🇸🇬 新加坡 03_abshare3, server: free.2weradf.xyz, port: 36175, type: ss, cipher: chacha20-ietf-poly1305, password: fc017771-4891-4c9b-8d92-370f7d19777e}
+  - {name: 🇰🇷 韩国 01_abshare3, server: free.2weradf.xyz, port: 36311, type: ss, cipher: chacha20-ietf-poly1305, password: fc017771-4891-4c9b-8d92-370f7d19777e}
+  - {name: 🇰🇷 韩国 02_abshare3, server: free.2weradf.xyz, port: 36313, type: ss, cipher: chacha20-ietf-poly1305, password: fc017771-4891-4c9b-8d92-370f7d19777e}
+  - {name: 🇰🇷 韩国 03_abshare3, server: free.2weradf.xyz, port: 36315, type: ss, cipher: chacha20-ietf-poly1305, password: fc017771-4891-4c9b-8d92-370f7d19777e}
+  - {name: 🇵🇭 菲律宾 01_abshare3, server: free.2weradf.xyz, port: 36341, type: ss, cipher: chacha20-ietf-poly1305, password: fc017771-4891-4c9b-8d92-370f7d19777e}
+  - {name: 🇺🇲 美国 01_abshare3, server: free.2weradf.xyz, port: 36211, type: ss, cipher: chacha20-ietf-poly1305, password: fc017771-4891-4c9b-8d92-370f7d19777e}
+  - {name: 🇺🇲 美国住宅IP 02_abshare3, server: free.2weradf.xyz, port: 36213, type: ss, cipher: chacha20-ietf-poly1305, password: fc017771-4891-4c9b-8d92-370f7d19777e}
+  - {name: 🇺🇲 美国 03_abshare3, server: free.2weradf.xyz, port: 36215, type: ss, cipher: chacha20-ietf-poly1305, password: fc017771-4891-4c9b-8d92-370f7d19777e}
+  - {name: 🇬🇧 英国住宅IP 01_abshare3, server: free.2weradf.xyz, port: 36271, type: ss, cipher: chacha20-ietf-poly1305, password: fc017771-4891-4c9b-8d92-370f7d19777e}
+  - {name: 🇲🇾 马来西亚 01_abshare3, server: free.2weradf.xyz, port: 36721, type: ss, cipher: chacha20-ietf-poly1305, password: fc017771-4891-4c9b-8d92-370f7d19777e}
+  - {name: 西班牙 01_abshare3, server: free.2weradf.xyz, port: 36741, type: ss, cipher: chacha20-ietf-poly1305, password: fc017771-4891-4c9b-8d92-370f7d19777e}
+  - {name: 🇹🇭 泰国 01_abshare3, server: free.2weradf.xyz, port: 36731, type: ss, cipher: chacha20-ietf-poly1305, password: fc017771-4891-4c9b-8d92-370f7d19777e}
+  - {name: 🇮🇳 印度 01_abshare3, server: free.2weradf.xyz, port: 36371, type: ss, cipher: chacha20-ietf-poly1305, password: fc017771-4891-4c9b-8d92-370f7d19777e}
+  - {name: 🇦🇺 澳大利亚 01_abshare3, server: free.2weradf.xyz, port: 36411, type: ss, cipher: chacha20-ietf-poly1305, password: fc017771-4891-4c9b-8d92-370f7d19777e}
+  - {name: 🇨🇦 加拿大 01_abshare3, server: free.2weradf.xyz, port: 36441, type: ss, cipher: chacha20-ietf-poly1305, password: fc017771-4891-4c9b-8d92-370f7d19777e}
+  - {name: 🇩🇪 德国 01_abshare3, server: free.2weradf.xyz, port: 36471, type: ss, cipher: chacha20-ietf-poly1305, password: fc017771-4891-4c9b-8d92-370f7d19777e}
+  - {name: 🇷🇺 俄罗斯 01_abshare3, server: free.2weradf.xyz, port: 36511, type: ss, cipher: chacha20-ietf-poly1305, password: fc017771-4891-4c9b-8d92-370f7d19777e}
+  - {name: 🇹🇷 土耳其 01_abshare3, server: free.2weradf.xyz, port: 36571, type: ss, cipher: chacha20-ietf-poly1305, password: fc017771-4891-4c9b-8d92-370f7d19777e}
+  - {name: 乌克兰 01_abshare3, server: free.2weradf.xyz, port: 36611, type: ss, cipher: chacha20-ietf-poly1305, password: fc017771-4891-4c9b-8d92-370f7d19777e}
+  - {name: 🇻🇳 越南 01_abshare3, server: free.2weradf.xyz, port: 36641, type: ss, cipher: chacha20-ietf-poly1305, password: fc017771-4891-4c9b-8d92-370f7d19777e}
+  - {name: 🇧🇷 巴西 01_abshare3, server: free.2weradf.xyz, port: 36671, type: ss, cipher: chacha20-ietf-poly1305, password: fc017771-4891-4c9b-8d92-370f7d19777e}
   - {name: 🇭🇰 香港|@ripaojiedian, server: 36.151.192.242, port: 14505, type: trojan, password: QwwHvrnN, skip-cert-verify: true}
   - {name: 🇭🇰 香港2|@ripaojiedian, server: 36.151.192.196, port: 42395, type: trojan, password: QwwHvrnN, skip-cert-verify: true}
   - {name: 🇭🇰 香港3|@ripaojiedian, server: 183.236.51.23, port: 53002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false}
@@ -412,7 +412,7 @@ proxy-groups:
   - name: 🚀 手动切换
     type: select
     proxies:
-      - mksshare：4.22 GB
+      - mksshare：2.88 GB
       - 🇭🇰 香港 01_mksshare
       - 🇭🇰 香港 02_mksshare
       - 🇭🇰 香港家宽 03_mksshare
@@ -447,7 +447,7 @@ proxy-groups:
       - 乌克兰 01_mksshare
       - 🇻🇳 越南 01_mksshare
       - 🇧🇷 巴西 01_mksshare
-      - abshare：3.26 GB
+      - abshare：4.55 GB
       - 🇭🇰 香港 01_abshare
       - 🇭🇰 香港 02_abshare
       - 🇭🇰 香港住宅IP 03_abshare
@@ -480,40 +480,7 @@ proxy-groups:
       - 乌克兰 01_abshare
       - 🇻🇳 越南 01_abshare
       - 🇧🇷 巴西 01_abshare
-      - abshare3：4.97 GB
-      - 🇭🇰 香港 01_abshare3
-      - 🇭🇰 香港 02_abshare3
-      - 🇭🇰 香港住宅IP 03_abshare3
-      - 🇨🇳 台湾 01_abshare3
-      - 🇨🇳 台湾 02_abshare3
-      - 🇨🇳 台湾 03_abshare3
-      - 🇯🇵 日本 01_abshare3
-      - 🇯🇵 日本 02_abshare3
-      - 🇯🇵 日本 03_abshare3
-      - 🇸🇬 新加坡 01_abshare3
-      - 🇸🇬 新加坡 02_abshare3
-      - 🇸🇬 新加坡 03_abshare3
-      - 🇰🇷 韩国 01_abshare3
-      - 🇰🇷 韩国 02_abshare3
-      - 🇰🇷 韩国 03_abshare3
-      - 🇵🇭 菲律宾 01_abshare3
-      - 🇺🇲 美国 01_abshare3
-      - 🇺🇲 美国住宅IP 02_abshare3
-      - 🇺🇲 美国 03_abshare3
-      - 🇬🇧 英国住宅IP 01_abshare3
-      - 🇲🇾 马来西亚 01_abshare3
-      - 西班牙 01_abshare3
-      - 🇹🇭 泰国 01_abshare3
-      - 🇮🇳 印度 01_abshare3
-      - 🇦🇺 澳大利亚 01_abshare3
-      - 🇨🇦 加拿大 01_abshare3
-      - 🇩🇪 德国 01_abshare3
-      - 🇷🇺 俄罗斯 01_abshare3
-      - 🇹🇷 土耳其 01_abshare3
-      - 乌克兰 01_abshare3
-      - 🇻🇳 越南 01_abshare3
-      - 🇧🇷 巴西 01_abshare3
-      - tolinkshare2：3.26 GB
+      - tolinkshare2：4.66 GB
       - 🇭🇰 香港01_tolinkshare2
       - 🇭🇰 香港02_tolinkshare2
       - 🇭🇰 香港03_tolinkshare2
@@ -620,6 +587,39 @@ proxy-groups:
       - 乌克兰 01_mkshare3
       - 🇻🇳 越南 01_mkshare3
       - 🇧🇷 巴西 01_mkshare3
+      - abshare3：4.97 GB
+      - 🇭🇰 香港 01_abshare3
+      - 🇭🇰 香港 02_abshare3
+      - 🇭🇰 香港住宅IP 03_abshare3
+      - 🇨🇳 台湾 01_abshare3
+      - 🇨🇳 台湾 02_abshare3
+      - 🇨🇳 台湾 03_abshare3
+      - 🇯🇵 日本 01_abshare3
+      - 🇯🇵 日本 02_abshare3
+      - 🇯🇵 日本 03_abshare3
+      - 🇸🇬 新加坡 01_abshare3
+      - 🇸🇬 新加坡 02_abshare3
+      - 🇸🇬 新加坡 03_abshare3
+      - 🇰🇷 韩国 01_abshare3
+      - 🇰🇷 韩国 02_abshare3
+      - 🇰🇷 韩国 03_abshare3
+      - 🇵🇭 菲律宾 01_abshare3
+      - 🇺🇲 美国 01_abshare3
+      - 🇺🇲 美国住宅IP 02_abshare3
+      - 🇺🇲 美国 03_abshare3
+      - 🇬🇧 英国住宅IP 01_abshare3
+      - 🇲🇾 马来西亚 01_abshare3
+      - 西班牙 01_abshare3
+      - 🇹🇭 泰国 01_abshare3
+      - 🇮🇳 印度 01_abshare3
+      - 🇦🇺 澳大利亚 01_abshare3
+      - 🇨🇦 加拿大 01_abshare3
+      - 🇩🇪 德国 01_abshare3
+      - 🇷🇺 俄罗斯 01_abshare3
+      - 🇹🇷 土耳其 01_abshare3
+      - 乌克兰 01_abshare3
+      - 🇻🇳 越南 01_abshare3
+      - 🇧🇷 巴西 01_abshare3
       - 🇭🇰 香港|@ripaojiedian
       - 🇭🇰 香港2|@ripaojiedian
       - 🇭🇰 香港3|@ripaojiedian
@@ -807,7 +807,7 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
-      - mksshare：4.22 GB
+      - mksshare：2.88 GB
       - 🇭🇰 香港 01_mksshare
       - 🇭🇰 香港 02_mksshare
       - 🇭🇰 香港家宽 03_mksshare
@@ -842,7 +842,7 @@ proxy-groups:
       - 乌克兰 01_mksshare
       - 🇻🇳 越南 01_mksshare
       - 🇧🇷 巴西 01_mksshare
-      - abshare：3.26 GB
+      - abshare：4.55 GB
       - 🇭🇰 香港 01_abshare
       - 🇭🇰 香港 02_abshare
       - 🇭🇰 香港住宅IP 03_abshare
@@ -875,40 +875,7 @@ proxy-groups:
       - 乌克兰 01_abshare
       - 🇻🇳 越南 01_abshare
       - 🇧🇷 巴西 01_abshare
-      - abshare3：4.97 GB
-      - 🇭🇰 香港 01_abshare3
-      - 🇭🇰 香港 02_abshare3
-      - 🇭🇰 香港住宅IP 03_abshare3
-      - 🇨🇳 台湾 01_abshare3
-      - 🇨🇳 台湾 02_abshare3
-      - 🇨🇳 台湾 03_abshare3
-      - 🇯🇵 日本 01_abshare3
-      - 🇯🇵 日本 02_abshare3
-      - 🇯🇵 日本 03_abshare3
-      - 🇸🇬 新加坡 01_abshare3
-      - 🇸🇬 新加坡 02_abshare3
-      - 🇸🇬 新加坡 03_abshare3
-      - 🇰🇷 韩国 01_abshare3
-      - 🇰🇷 韩国 02_abshare3
-      - 🇰🇷 韩国 03_abshare3
-      - 🇵🇭 菲律宾 01_abshare3
-      - 🇺🇲 美国 01_abshare3
-      - 🇺🇲 美国住宅IP 02_abshare3
-      - 🇺🇲 美国 03_abshare3
-      - 🇬🇧 英国住宅IP 01_abshare3
-      - 🇲🇾 马来西亚 01_abshare3
-      - 西班牙 01_abshare3
-      - 🇹🇭 泰国 01_abshare3
-      - 🇮🇳 印度 01_abshare3
-      - 🇦🇺 澳大利亚 01_abshare3
-      - 🇨🇦 加拿大 01_abshare3
-      - 🇩🇪 德国 01_abshare3
-      - 🇷🇺 俄罗斯 01_abshare3
-      - 🇹🇷 土耳其 01_abshare3
-      - 乌克兰 01_abshare3
-      - 🇻🇳 越南 01_abshare3
-      - 🇧🇷 巴西 01_abshare3
-      - tolinkshare2：3.26 GB
+      - tolinkshare2：4.66 GB
       - 🇭🇰 香港01_tolinkshare2
       - 🇭🇰 香港02_tolinkshare2
       - 🇭🇰 香港03_tolinkshare2
@@ -1015,6 +982,39 @@ proxy-groups:
       - 乌克兰 01_mkshare3
       - 🇻🇳 越南 01_mkshare3
       - 🇧🇷 巴西 01_mkshare3
+      - abshare3：4.97 GB
+      - 🇭🇰 香港 01_abshare3
+      - 🇭🇰 香港 02_abshare3
+      - 🇭🇰 香港住宅IP 03_abshare3
+      - 🇨🇳 台湾 01_abshare3
+      - 🇨🇳 台湾 02_abshare3
+      - 🇨🇳 台湾 03_abshare3
+      - 🇯🇵 日本 01_abshare3
+      - 🇯🇵 日本 02_abshare3
+      - 🇯🇵 日本 03_abshare3
+      - 🇸🇬 新加坡 01_abshare3
+      - 🇸🇬 新加坡 02_abshare3
+      - 🇸🇬 新加坡 03_abshare3
+      - 🇰🇷 韩国 01_abshare3
+      - 🇰🇷 韩国 02_abshare3
+      - 🇰🇷 韩国 03_abshare3
+      - 🇵🇭 菲律宾 01_abshare3
+      - 🇺🇲 美国 01_abshare3
+      - 🇺🇲 美国住宅IP 02_abshare3
+      - 🇺🇲 美国 03_abshare3
+      - 🇬🇧 英国住宅IP 01_abshare3
+      - 🇲🇾 马来西亚 01_abshare3
+      - 西班牙 01_abshare3
+      - 🇹🇭 泰国 01_abshare3
+      - 🇮🇳 印度 01_abshare3
+      - 🇦🇺 澳大利亚 01_abshare3
+      - 🇨🇦 加拿大 01_abshare3
+      - 🇩🇪 德国 01_abshare3
+      - 🇷🇺 俄罗斯 01_abshare3
+      - 🇹🇷 土耳其 01_abshare3
+      - 乌克兰 01_abshare3
+      - 🇻🇳 越南 01_abshare3
+      - 🇧🇷 巴西 01_abshare3
       - 🇭🇰 香港|@ripaojiedian
       - 🇭🇰 香港2|@ripaojiedian
       - 🇭🇰 香港3|@ripaojiedian
@@ -1202,7 +1202,7 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
-      - mksshare：4.22 GB
+      - mksshare：2.88 GB
       - 🇭🇰 香港 01_mksshare
       - 🇭🇰 香港 02_mksshare
       - 🇭🇰 香港家宽 03_mksshare
@@ -1237,7 +1237,7 @@ proxy-groups:
       - 乌克兰 01_mksshare
       - 🇻🇳 越南 01_mksshare
       - 🇧🇷 巴西 01_mksshare
-      - abshare：3.26 GB
+      - abshare：4.55 GB
       - 🇭🇰 香港 01_abshare
       - 🇭🇰 香港 02_abshare
       - 🇭🇰 香港住宅IP 03_abshare
@@ -1270,40 +1270,7 @@ proxy-groups:
       - 乌克兰 01_abshare
       - 🇻🇳 越南 01_abshare
       - 🇧🇷 巴西 01_abshare
-      - abshare3：4.97 GB
-      - 🇭🇰 香港 01_abshare3
-      - 🇭🇰 香港 02_abshare3
-      - 🇭🇰 香港住宅IP 03_abshare3
-      - 🇨🇳 台湾 01_abshare3
-      - 🇨🇳 台湾 02_abshare3
-      - 🇨🇳 台湾 03_abshare3
-      - 🇯🇵 日本 01_abshare3
-      - 🇯🇵 日本 02_abshare3
-      - 🇯🇵 日本 03_abshare3
-      - 🇸🇬 新加坡 01_abshare3
-      - 🇸🇬 新加坡 02_abshare3
-      - 🇸🇬 新加坡 03_abshare3
-      - 🇰🇷 韩国 01_abshare3
-      - 🇰🇷 韩国 02_abshare3
-      - 🇰🇷 韩国 03_abshare3
-      - 🇵🇭 菲律宾 01_abshare3
-      - 🇺🇲 美国 01_abshare3
-      - 🇺🇲 美国住宅IP 02_abshare3
-      - 🇺🇲 美国 03_abshare3
-      - 🇬🇧 英国住宅IP 01_abshare3
-      - 🇲🇾 马来西亚 01_abshare3
-      - 西班牙 01_abshare3
-      - 🇹🇭 泰国 01_abshare3
-      - 🇮🇳 印度 01_abshare3
-      - 🇦🇺 澳大利亚 01_abshare3
-      - 🇨🇦 加拿大 01_abshare3
-      - 🇩🇪 德国 01_abshare3
-      - 🇷🇺 俄罗斯 01_abshare3
-      - 🇹🇷 土耳其 01_abshare3
-      - 乌克兰 01_abshare3
-      - 🇻🇳 越南 01_abshare3
-      - 🇧🇷 巴西 01_abshare3
-      - tolinkshare2：3.26 GB
+      - tolinkshare2：4.66 GB
       - 🇭🇰 香港01_tolinkshare2
       - 🇭🇰 香港02_tolinkshare2
       - 🇭🇰 香港03_tolinkshare2
@@ -1410,6 +1377,39 @@ proxy-groups:
       - 乌克兰 01_mkshare3
       - 🇻🇳 越南 01_mkshare3
       - 🇧🇷 巴西 01_mkshare3
+      - abshare3：4.97 GB
+      - 🇭🇰 香港 01_abshare3
+      - 🇭🇰 香港 02_abshare3
+      - 🇭🇰 香港住宅IP 03_abshare3
+      - 🇨🇳 台湾 01_abshare3
+      - 🇨🇳 台湾 02_abshare3
+      - 🇨🇳 台湾 03_abshare3
+      - 🇯🇵 日本 01_abshare3
+      - 🇯🇵 日本 02_abshare3
+      - 🇯🇵 日本 03_abshare3
+      - 🇸🇬 新加坡 01_abshare3
+      - 🇸🇬 新加坡 02_abshare3
+      - 🇸🇬 新加坡 03_abshare3
+      - 🇰🇷 韩国 01_abshare3
+      - 🇰🇷 韩国 02_abshare3
+      - 🇰🇷 韩国 03_abshare3
+      - 🇵🇭 菲律宾 01_abshare3
+      - 🇺🇲 美国 01_abshare3
+      - 🇺🇲 美国住宅IP 02_abshare3
+      - 🇺🇲 美国 03_abshare3
+      - 🇬🇧 英国住宅IP 01_abshare3
+      - 🇲🇾 马来西亚 01_abshare3
+      - 西班牙 01_abshare3
+      - 🇹🇭 泰国 01_abshare3
+      - 🇮🇳 印度 01_abshare3
+      - 🇦🇺 澳大利亚 01_abshare3
+      - 🇨🇦 加拿大 01_abshare3
+      - 🇩🇪 德国 01_abshare3
+      - 🇷🇺 俄罗斯 01_abshare3
+      - 🇹🇷 土耳其 01_abshare3
+      - 乌克兰 01_abshare3
+      - 🇻🇳 越南 01_abshare3
+      - 🇧🇷 巴西 01_abshare3
       - 🇭🇰 香港|@ripaojiedian
       - 🇭🇰 香港2|@ripaojiedian
       - 🇭🇰 香港3|@ripaojiedian
@@ -1598,7 +1598,7 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
-      - mksshare：4.22 GB
+      - mksshare：2.88 GB
       - 🇭🇰 香港 01_mksshare
       - 🇭🇰 香港 02_mksshare
       - 🇭🇰 香港家宽 03_mksshare
@@ -1633,7 +1633,7 @@ proxy-groups:
       - 乌克兰 01_mksshare
       - 🇻🇳 越南 01_mksshare
       - 🇧🇷 巴西 01_mksshare
-      - abshare：3.26 GB
+      - abshare：4.55 GB
       - 🇭🇰 香港 01_abshare
       - 🇭🇰 香港 02_abshare
       - 🇭🇰 香港住宅IP 03_abshare
@@ -1666,40 +1666,7 @@ proxy-groups:
       - 乌克兰 01_abshare
       - 🇻🇳 越南 01_abshare
       - 🇧🇷 巴西 01_abshare
-      - abshare3：4.97 GB
-      - 🇭🇰 香港 01_abshare3
-      - 🇭🇰 香港 02_abshare3
-      - 🇭🇰 香港住宅IP 03_abshare3
-      - 🇨🇳 台湾 01_abshare3
-      - 🇨🇳 台湾 02_abshare3
-      - 🇨🇳 台湾 03_abshare3
-      - 🇯🇵 日本 01_abshare3
-      - 🇯🇵 日本 02_abshare3
-      - 🇯🇵 日本 03_abshare3
-      - 🇸🇬 新加坡 01_abshare3
-      - 🇸🇬 新加坡 02_abshare3
-      - 🇸🇬 新加坡 03_abshare3
-      - 🇰🇷 韩国 01_abshare3
-      - 🇰🇷 韩国 02_abshare3
-      - 🇰🇷 韩国 03_abshare3
-      - 🇵🇭 菲律宾 01_abshare3
-      - 🇺🇲 美国 01_abshare3
-      - 🇺🇲 美国住宅IP 02_abshare3
-      - 🇺🇲 美国 03_abshare3
-      - 🇬🇧 英国住宅IP 01_abshare3
-      - 🇲🇾 马来西亚 01_abshare3
-      - 西班牙 01_abshare3
-      - 🇹🇭 泰国 01_abshare3
-      - 🇮🇳 印度 01_abshare3
-      - 🇦🇺 澳大利亚 01_abshare3
-      - 🇨🇦 加拿大 01_abshare3
-      - 🇩🇪 德国 01_abshare3
-      - 🇷🇺 俄罗斯 01_abshare3
-      - 🇹🇷 土耳其 01_abshare3
-      - 乌克兰 01_abshare3
-      - 🇻🇳 越南 01_abshare3
-      - 🇧🇷 巴西 01_abshare3
-      - tolinkshare2：3.26 GB
+      - tolinkshare2：4.66 GB
       - 🇭🇰 香港01_tolinkshare2
       - 🇭🇰 香港02_tolinkshare2
       - 🇭🇰 香港03_tolinkshare2
@@ -1806,6 +1773,39 @@ proxy-groups:
       - 乌克兰 01_mkshare3
       - 🇻🇳 越南 01_mkshare3
       - 🇧🇷 巴西 01_mkshare3
+      - abshare3：4.97 GB
+      - 🇭🇰 香港 01_abshare3
+      - 🇭🇰 香港 02_abshare3
+      - 🇭🇰 香港住宅IP 03_abshare3
+      - 🇨🇳 台湾 01_abshare3
+      - 🇨🇳 台湾 02_abshare3
+      - 🇨🇳 台湾 03_abshare3
+      - 🇯🇵 日本 01_abshare3
+      - 🇯🇵 日本 02_abshare3
+      - 🇯🇵 日本 03_abshare3
+      - 🇸🇬 新加坡 01_abshare3
+      - 🇸🇬 新加坡 02_abshare3
+      - 🇸🇬 新加坡 03_abshare3
+      - 🇰🇷 韩国 01_abshare3
+      - 🇰🇷 韩国 02_abshare3
+      - 🇰🇷 韩国 03_abshare3
+      - 🇵🇭 菲律宾 01_abshare3
+      - 🇺🇲 美国 01_abshare3
+      - 🇺🇲 美国住宅IP 02_abshare3
+      - 🇺🇲 美国 03_abshare3
+      - 🇬🇧 英国住宅IP 01_abshare3
+      - 🇲🇾 马来西亚 01_abshare3
+      - 西班牙 01_abshare3
+      - 🇹🇭 泰国 01_abshare3
+      - 🇮🇳 印度 01_abshare3
+      - 🇦🇺 澳大利亚 01_abshare3
+      - 🇨🇦 加拿大 01_abshare3
+      - 🇩🇪 德国 01_abshare3
+      - 🇷🇺 俄罗斯 01_abshare3
+      - 🇹🇷 土耳其 01_abshare3
+      - 乌克兰 01_abshare3
+      - 🇻🇳 越南 01_abshare3
+      - 🇧🇷 巴西 01_abshare3
       - 🇭🇰 香港|@ripaojiedian
       - 🇭🇰 香港2|@ripaojiedian
       - 🇭🇰 香港3|@ripaojiedian
@@ -2204,9 +2204,6 @@ proxy-groups:
       - 🇭🇰 香港 01_abshare
       - 🇭🇰 香港 02_abshare
       - 🇭🇰 香港住宅IP 03_abshare
-      - 🇭🇰 香港 01_abshare3
-      - 🇭🇰 香港 02_abshare3
-      - 🇭🇰 香港住宅IP 03_abshare3
       - 🇭🇰 香港01_tolinkshare2
       - 🇭🇰 香港02_tolinkshare2
       - 🇭🇰 香港03_tolinkshare2
@@ -2216,6 +2213,9 @@ proxy-groups:
       - 🇭🇰 香港 01_mkshare3
       - 🇭🇰 香港 02_mkshare3
       - 🇭🇰 香港家宽 03_mkshare3
+      - 🇭🇰 香港 01_abshare3
+      - 🇭🇰 香港 02_abshare3
+      - 🇭🇰 香港住宅IP 03_abshare3
       - 🇭🇰 香港|@ripaojiedian
       - 🇭🇰 香港2|@ripaojiedian
       - 🇭🇰 香港3|@ripaojiedian
@@ -2236,9 +2236,6 @@ proxy-groups:
       - 🇯🇵 日本 01_abshare
       - 🇯🇵 日本 02_abshare
       - 🇯🇵 日本 03_abshare
-      - 🇯🇵 日本 01_abshare3
-      - 🇯🇵 日本 02_abshare3
-      - 🇯🇵 日本 03_abshare3
       - 🇯🇵 日本01_tolinkshare2
       - 🇯🇵 日本02_tolinkshare2
       - 🇯🇵 日本03_tolinkshare2
@@ -2248,6 +2245,9 @@ proxy-groups:
       - 🇯🇵 日本 01_mkshare3
       - 🇯🇵 日本 02_mkshare3
       - 🇯🇵 日本 03_mkshare3
+      - 🇯🇵 日本 01_abshare3
+      - 🇯🇵 日本 02_abshare3
+      - 🇯🇵 日本 03_abshare3
       - 🇯🇵 日本|@ripaojiedian
       - 🇯🇵 日本2|@ripaojiedian
       - 🇯🇵 日本3|@ripaojiedian
@@ -2306,9 +2306,6 @@ proxy-groups:
       - 🇺🇲 美国 01_abshare
       - 🇺🇲 美国住宅IP 02_abshare
       - 🇺🇲 美国 03_abshare
-      - 🇺🇲 美国 01_abshare3
-      - 🇺🇲 美国住宅IP 02_abshare3
-      - 🇺🇲 美国 03_abshare3
       - 🇺🇲 美国01_tolinkshare2
       - 🇺🇲 美国02_tolinkshare2
       - 🇺🇲 美国03_tolinkshare2
@@ -2326,6 +2323,9 @@ proxy-groups:
       - 🇺🇲 美国 03_mkshare3
       - 🇺🇲 美国 04_mkshare3
       - 🇺🇲 美国 05_mkshare3
+      - 🇺🇲 美国 01_abshare3
+      - 🇺🇲 美国住宅IP 02_abshare3
+      - 🇺🇲 美国 03_abshare3
       - 🇺🇲 美国|@ripaojiedian
       - 🇺🇲 US
       - 🇺🇲 US 2
@@ -2408,9 +2408,6 @@ proxy-groups:
       - 🇨🇳 台湾 01_abshare
       - 🇨🇳 台湾 02_abshare
       - 🇨🇳 台湾 03_abshare
-      - 🇨🇳 台湾 01_abshare3
-      - 🇨🇳 台湾 02_abshare3
-      - 🇨🇳 台湾 03_abshare3
       - 🇨🇳 台湾01_tolinkshare2
       - 🇨🇳 台湾02_tolinkshare2
       - 🇨🇳 台湾03_tolinkshare2
@@ -2420,6 +2417,9 @@ proxy-groups:
       - 🇨🇳 台湾 01_mkshare3
       - 🇨🇳 台湾 02_mkshare3
       - 🇨🇳 台湾 03_mkshare3
+      - 🇨🇳 台湾 01_abshare3
+      - 🇨🇳 台湾 02_abshare3
+      - 🇨🇳 台湾 03_abshare3
       - 🇨🇳 台湾|@ripaojiedian
   - name: 🇸🇬 狮城节点
     type: url-test
@@ -2433,9 +2433,6 @@ proxy-groups:
       - 🇸🇬 新加坡 01_abshare
       - 🇸🇬 新加坡 02_abshare
       - 🇸🇬 新加坡 03_abshare
-      - 🇸🇬 新加坡 01_abshare3
-      - 🇸🇬 新加坡 02_abshare3
-      - 🇸🇬 新加坡 03_abshare3
       - 🇸🇬 新加坡01_tolinkshare2
       - 🇸🇬 新加坡02_tolinkshare2
       - 🇸🇬 新加坡03_tolinkshare2
@@ -2445,6 +2442,9 @@ proxy-groups:
       - 🇸🇬 新加坡 01_mkshare3
       - 🇸🇬 新加坡 02_mkshare3
       - 🇸🇬 新加坡 03_mkshare3
+      - 🇸🇬 新加坡 01_abshare3
+      - 🇸🇬 新加坡 02_abshare3
+      - 🇸🇬 新加坡 03_abshare3
       - 🇸🇬 狮城特殊|@ripaojiedian
       - 🇸🇬 SG
       - 🇸🇬 SG 2
@@ -2489,9 +2489,6 @@ proxy-groups:
       - 🇰🇷 韩国 01_abshare
       - 🇰🇷 韩国 02_abshare
       - 🇰🇷 韩国 03_abshare
-      - 🇰🇷 韩国 01_abshare3
-      - 🇰🇷 韩国 02_abshare3
-      - 🇰🇷 韩国 03_abshare3
       - 🇰🇷 韩国01_tolinkshare2
       - 🇰🇷 韩国02_tolinkshare2
       - 🇰🇷 韩国03_tolinkshare2
@@ -2501,6 +2498,9 @@ proxy-groups:
       - 🇰🇷 韩国 01_mkshare3
       - 🇰🇷 韩国 02_mkshare3
       - 🇰🇷 韩国 03_mkshare3
+      - 🇰🇷 韩国 01_abshare3
+      - 🇰🇷 韩国 02_abshare3
+      - 🇰🇷 韩国 03_abshare3
       - 🇰🇷 韩国|@ripaojiedian
       - 🇰🇷 韩国特殊|@ripaojiedian
       - 🇰🇷 KR
